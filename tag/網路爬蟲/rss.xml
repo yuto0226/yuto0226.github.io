@@ -11,17 +11,17 @@
         <category>C++</category>
         <category>資料結構</category>
         <category>Linked List</category>
-        <category>vector</category>
         <category>類神經網路</category>
+        <category>vector</category>
+        <category>LeetCode</category>
         <category>Python</category>
         <category>網路爬蟲</category>
         <category>Hack Life</category>
-        <category>LeetCode</category>
         <category>ZeroJudge</category>
         <item>
-            <guid isPermalink="true">http://example.com/2021/08/18/popcat/</guid>
+            <guid isPermalink="true">http://example.com/%E4%BD%9C%E5%93%81/popcat/</guid>
             <title>POPCAT 自動連點器</title>
-            <link>http://example.com/2021/08/18/popcat/</link>
+            <link>http://example.com/%E4%BD%9C%E5%93%81/popcat/</link>
             <category>Python</category>
             <category>網路爬蟲</category>
             <category>Hack Life</category>

@@ -8,17 +8,17 @@
     <category term="C++" />
     <category term="資料結構" />
     <category term="Linked List" />
-    <category term="vector" />
     <category term="類神經網路" />
+    <category term="vector" />
+    <category term="LeetCode" />
     <category term="Python" />
     <category term="網路爬蟲" />
     <category term="Hack Life" />
-    <category term="LeetCode" />
     <category term="ZeroJudge" />
     <entry>
-        <id>http://example.com/2022/01/05/cpp-vector/</id>
+        <id>http://example.com/C/STL/cpp-vector/</id>
         <title>向量 Vector(STL)</title>
-        <link rel="alternate" href="http://example.com/2022/01/05/cpp-vector/"/>
+        <link rel="alternate" href="http://example.com/C/STL/cpp-vector/"/>
         <content type="html">&lt;h1 id=&#34;前言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; 前言&lt;/h1&gt;
 &lt;p&gt;在學寫 C++ 的過程當中，從 Array 到 Vector 一直是很難跨越的障礙，&lt;br /&gt;
 因為我的物件導向和指標不是學的很完善，導致會有點看不懂程式碼在做什麼，&lt;br /&gt;

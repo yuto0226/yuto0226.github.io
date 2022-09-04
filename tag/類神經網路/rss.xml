@@ -11,17 +11,17 @@
         <category>C++</category>
         <category>資料結構</category>
         <category>Linked List</category>
-        <category>vector</category>
         <category>類神經網路</category>
+        <category>vector</category>
+        <category>LeetCode</category>
         <category>Python</category>
         <category>網路爬蟲</category>
         <category>Hack Life</category>
-        <category>LeetCode</category>
         <category>ZeroJudge</category>
         <item>
-            <guid isPermalink="true">http://example.com/2022/05/12/perceptron/</guid>
+            <guid isPermalink="true">http://example.com/C/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B-%E6%BC%94%E7%AE%97%E6%B3%95/perceptron/</guid>
             <title>感知機 PLA</title>
-            <link>http://example.com/2022/05/12/perceptron/</link>
+            <link>http://example.com/C/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B-%E6%BC%94%E7%AE%97%E6%B3%95/perceptron/</link>
             <category>筆記</category>
             <category>C++</category>
             <category>類神經網路</category>

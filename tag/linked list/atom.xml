@@ -8,17 +8,17 @@
     <category term="C++" />
     <category term="資料結構" />
     <category term="Linked List" />
-    <category term="vector" />
     <category term="類神經網路" />
+    <category term="vector" />
+    <category term="LeetCode" />
     <category term="Python" />
     <category term="網路爬蟲" />
     <category term="Hack Life" />
-    <category term="LeetCode" />
     <category term="ZeroJudge" />
     <entry>
-        <id>http://example.com/2022/01/01/cpp-linkedlist/</id>
+        <id>http://example.com/C/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B-%E6%BC%94%E7%AE%97%E6%B3%95/cpp-linkedlist/</id>
         <title>鏈接串列 Linked List</title>
-        <link rel="alternate" href="http://example.com/2022/01/01/cpp-linkedlist/"/>
+        <link rel="alternate" href="http://example.com/C/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B-%E6%BC%94%E7%AE%97%E6%B3%95/cpp-linkedlist/"/>
         <content type="html">&lt;h1 id=&#34;簡介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#簡介&#34;&gt;#&lt;/a&gt; 簡介&lt;/h1&gt;
 &lt;p&gt;何謂&lt;strong&gt;鏈接串列 (Linked List)&lt;/strong&gt;? 串列是一種常見的資料結構，&lt;br /&gt;
 使用節點儲存資料，且透過接點的指標指向下一個節點，&lt;br /&gt;
