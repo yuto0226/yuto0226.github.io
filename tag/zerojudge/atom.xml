@@ -9,16 +9,16 @@
     <category term="資料結構" />
     <category term="Linked List" />
     <category term="vector" />
-    <category term="類神經網路" />
+    <category term="LeetCode" />
     <category term="Python" />
     <category term="網路爬蟲" />
     <category term="Hack Life" />
-    <category term="LeetCode" />
+    <category term="類神經網路" />
     <category term="ZeroJudge" />
     <entry>
-        <id>https://yuto-0226.github.io/%E8%A7%A3%E9%A1%8C%E7%B4%80%E9%8C%84/ZeroJudge/zj-e798/</id>
+        <id>https://yuto-0226.github.io/%E8%A7%A3%E9%A1%8C%E7%B4%80%E9%8C%84/ZeroJudge/2022/zj-e798/</id>
         <title>e798 卷積神經網路</title>
-        <link rel="alternate" href="https://yuto-0226.github.io/%E8%A7%A3%E9%A1%8C%E7%B4%80%E9%8C%84/ZeroJudge/zj-e798/"/>
+        <link rel="alternate" href="https://yuto-0226.github.io/%E8%A7%A3%E9%A1%8C%E7%B4%80%E9%8C%84/ZeroJudge/2022/zj-e798/"/>
         <content type="html">&lt;h1 id=&#34;題目&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#題目&#34;&gt;#&lt;/a&gt; 題目&lt;/h1&gt;
 &lt;p&gt;2019TOI1214 新手同好會 5. 卷積神經網路 (CNN)  {&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly90b2ktcmVnLmNzaWUubnRudS5lZHUudHcvd3AtY29udGVudC91cGxvYWRzL3F1ZXN0aW9uLzIwMTkxMi1vbnNpdGUvNS1DTk4ucGRm&#34;&gt;試題連結&lt;/span&gt;}&lt;/p&gt;
 &lt;h2 id=&#34;問題敘述&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#問題敘述&#34;&gt;#&lt;/a&gt; 問題敘述&lt;/h2&gt;
@@ -50,9 +50,9 @@ CNN 分為三個部分：卷積層 (convolution layer)、池化層 (pooling laye
         <updated>2022-03-18T10:48:23.000Z</updated>
     </entry>
     <entry>
-        <id>https://yuto-0226.github.io/%E8%A7%A3%E9%A1%8C%E7%B4%80%E9%8C%84/ZeroJudge/zj-b004/</id>
+        <id>https://yuto-0226.github.io/%E8%A7%A3%E9%A1%8C%E7%B4%80%E9%8C%84/ZeroJudge/2021/zj-b004/</id>
         <title>b004. 一個都不能少</title>
-        <link rel="alternate" href="https://yuto-0226.github.io/%E8%A7%A3%E9%A1%8C%E7%B4%80%E9%8C%84/ZeroJudge/zj-b004/"/>
+        <link rel="alternate" href="https://yuto-0226.github.io/%E8%A7%A3%E9%A1%8C%E7%B4%80%E9%8C%84/ZeroJudge/2021/zj-b004/"/>
         <content type="html">&lt;h1 id=&#34;b004-一個都不能少&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#b004-一個都不能少&#34;&gt;#&lt;/a&gt; b004: 一個都不能少&lt;/h1&gt;
 &lt;h2 id=&#34;題目&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#題目&#34;&gt;#&lt;/a&gt; 題目&lt;/h2&gt;
 &lt;p&gt;進德女子監獄座落於自由女中旁，是間作風開放的監獄，每到中午時間便會放風讓收容人到外面用餐。當然還是會有人逾時不歸，身為管理者的美惠，每天總是要為哪些人沒有回來而傷透腦筋。現在想請你寫一個程式，幫助美惠找出哪些人沒有回來。&lt;/p&gt;
