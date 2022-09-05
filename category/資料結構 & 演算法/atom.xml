@@ -1,24 +1,24 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
+    <id>https://yuto-0226.github.io</id>
     <title>悠人的筆記本 • Posts by &#34;資料結構 &amp; 演算法&#34; category</title>
-    <link href="http://example.com" />
+    <link href="https://yuto-0226.github.io" />
     <updated>2022-05-12T06:20:28.000Z</updated>
     <category term="筆記" />
     <category term="C++" />
     <category term="資料結構" />
-    <category term="vector" />
     <category term="Linked List" />
+    <category term="vector" />
+    <category term="類神經網路" />
     <category term="Python" />
     <category term="網路爬蟲" />
     <category term="Hack Life" />
-    <category term="類神經網路" />
     <category term="LeetCode" />
     <category term="ZeroJudge" />
     <entry>
-        <id>http://example.com/C/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B-%E6%BC%94%E7%AE%97%E6%B3%95/perceptron/</id>
+        <id>https://yuto-0226.github.io/C/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B-%E6%BC%94%E7%AE%97%E6%B3%95/perceptron/</id>
         <title>感知機 PLA</title>
-        <link rel="alternate" href="http://example.com/C/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B-%E6%BC%94%E7%AE%97%E6%B3%95/perceptron/"/>
+        <link rel="alternate" href="https://yuto-0226.github.io/C/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B-%E6%BC%94%E7%AE%97%E6%B3%95/perceptron/"/>
         <content type="html">&lt;h1 id=&#34;感知機-pla&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#感知機-pla&#34;&gt;#&lt;/a&gt; 感知機 PLA&lt;/h1&gt;
 &lt;p&gt;針對線性資料的分類&lt;br /&gt;
 &lt;img data-src=&#34;./img/p_origin.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -106,9 +106,9 @@
         <updated>2022-05-12T06:20:28.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/C/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B-%E6%BC%94%E7%AE%97%E6%B3%95/DSA-BIT/</id>
+        <id>https://yuto-0226.github.io/C/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B-%E6%BC%94%E7%AE%97%E6%B3%95/DSA-BIT/</id>
         <title>BIT 樹狀樹組</title>
-        <link rel="alternate" href="http://example.com/C/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B-%E6%BC%94%E7%AE%97%E6%B3%95/DSA-BIT/"/>
+        <link rel="alternate" href="https://yuto-0226.github.io/C/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B-%E6%BC%94%E7%AE%97%E6%B3%95/DSA-BIT/"/>
         <content type="html">&lt;h1 id=&#34;bit&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#bit&#34;&gt;#&lt;/a&gt; BIT&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;A Fenwick tree or binary indexed tree is a data structure that can efficiently update elements and calculate prefix sums in a table of numbers.&lt;br /&gt;
@@ -195,9 +195,9 @@ int main()&amp;#123;
         <updated>2022-04-01T03:52:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/C/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B-%E6%BC%94%E7%AE%97%E6%B3%95/floodfill/</id>
+        <id>https://yuto-0226.github.io/C/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B-%E6%BC%94%E7%AE%97%E6%B3%95/floodfill/</id>
         <title>泛洪演算法 Flood Fill Alogrithm</title>
-        <link rel="alternate" href="http://example.com/C/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B-%E6%BC%94%E7%AE%97%E6%B3%95/floodfill/"/>
+        <link rel="alternate" href="https://yuto-0226.github.io/C/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B-%E6%BC%94%E7%AE%97%E6%B3%95/floodfill/"/>
         <content type="html">&lt;h1 id=&#34;簡介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#簡介&#34;&gt;#&lt;/a&gt; 簡介&lt;/h1&gt;
 &lt;p&gt;Flood Fill 演算法是從一個區域中提取若干個連通的點與其他相鄰區域區分開 (或分別染成不同顏色) 的經典演算法 (Algorithm)。因為其思路類似洪水從一個區域擴散到所有能到達的區域而得名。&lt;/p&gt;
 &lt;h1 id=&#34;實作方法&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#實作方法&#34;&gt;#&lt;/a&gt; 實作方法&lt;/h1&gt;
@@ -300,9 +300,9 @@ int main() &amp;#123;
         <updated>2022-02-05T06:29:02.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/C/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B-%E6%BC%94%E7%AE%97%E6%B3%95/cpp-linkedlist/</id>
+        <id>https://yuto-0226.github.io/C/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B-%E6%BC%94%E7%AE%97%E6%B3%95/cpp-linkedlist/</id>
         <title>鏈接串列 Linked List</title>
-        <link rel="alternate" href="http://example.com/C/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B-%E6%BC%94%E7%AE%97%E6%B3%95/cpp-linkedlist/"/>
+        <link rel="alternate" href="https://yuto-0226.github.io/C/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B-%E6%BC%94%E7%AE%97%E6%B3%95/cpp-linkedlist/"/>
         <content type="html">&lt;h1 id=&#34;簡介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#簡介&#34;&gt;#&lt;/a&gt; 簡介&lt;/h1&gt;
 &lt;p&gt;何謂&lt;strong&gt;鏈接串列 (Linked List)&lt;/strong&gt;? 串列是一種常見的資料結構，&lt;br /&gt;
 使用節點儲存資料，且透過接點的指標指向下一個節點，&lt;br /&gt;

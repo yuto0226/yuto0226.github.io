@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>悠人的筆記本 • Posts by &#34;python&#34; tag</title>
-        <link>http://example.com</link>
+        <link>https://yuto-0226.github.io</link>
         <description>CSE 筆記</description>
         <language>zh-TW</language>
         <pubDate>Wed, 18 Aug 2021 19:13:26 +0800</pubDate>
@@ -10,18 +10,18 @@
         <category>筆記</category>
         <category>C++</category>
         <category>資料結構</category>
-        <category>vector</category>
         <category>Linked List</category>
+        <category>vector</category>
+        <category>類神經網路</category>
         <category>Python</category>
         <category>網路爬蟲</category>
         <category>Hack Life</category>
-        <category>類神經網路</category>
         <category>LeetCode</category>
         <category>ZeroJudge</category>
         <item>
-            <guid isPermalink="true">http://example.com/%E4%BD%9C%E5%93%81/popcat/</guid>
+            <guid isPermalink="true">https://yuto-0226.github.io/%E4%BD%9C%E5%93%81/popcat/</guid>
             <title>POPCAT 自動連點器</title>
-            <link>http://example.com/%E4%BD%9C%E5%93%81/popcat/</link>
+            <link>https://yuto-0226.github.io/%E4%BD%9C%E5%93%81/popcat/</link>
             <category>Python</category>
             <category>網路爬蟲</category>
             <category>Hack Life</category>
