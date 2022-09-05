@@ -7,14 +7,14 @@
     <category term="筆記" />
     <category term="C++" />
     <category term="資料結構" />
-    <category term="Linked List" />
     <category term="vector" />
-    <category term="LeetCode" />
+    <category term="類神經網路" />
     <category term="Python" />
     <category term="網路爬蟲" />
     <category term="Hack Life" />
-    <category term="類神經網路" />
+    <category term="LeetCode" />
     <category term="ZeroJudge" />
+    <category term="Linked List" />
     <entry>
         <id>https://yuto-0226.github.io/C/STL/2022/cpp-vector/</id>
         <title>向量 Vector(STL)</title>
