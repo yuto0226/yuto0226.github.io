@@ -5,11 +5,12 @@
         <link>https://yuto-0226.github.io</link>
         <description>CSE 筆記</description>
         <language>zh-TW</language>
-        <pubDate>Thu, 12 May 2022 14:20:28 +0800</pubDate>
-        <lastBuildDate>Thu, 12 May 2022 14:20:28 +0800</lastBuildDate>
+        <pubDate>Tue, 06 Sep 2022 23:06:08 +0800</pubDate>
+        <lastBuildDate>Tue, 06 Sep 2022 23:06:08 +0800</lastBuildDate>
         <category>筆記</category>
         <category>C++</category>
         <category>資料結構</category>
+        <category>Linked List</category>
         <category>vector</category>
         <category>類神經網路</category>
         <category>Python</category>
@@ -17,7 +18,135 @@
         <category>Hack Life</category>
         <category>LeetCode</category>
         <category>ZeroJudge</category>
-        <category>Linked List</category>
+        <item>
+            <guid isPermalink="true">https://yuto-0226.github.io/%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%AD%86%E8%A8%98/2022/Nl-01/</guid>
+            <title>名詞主題 ～は～です</title>
+            <link>https://yuto-0226.github.io/%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%AD%86%E8%A8%98/2022/Nl-01/</link>
+            <pubDate>Tue, 06 Sep 2022 23:06:08 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;日文句子結構可以拆成&lt;span class=&#34;red&#34;&gt;主部&lt;/span&gt;和&lt;span class=&#34;red&#34;&gt;敘部&lt;/span&gt;。&lt;br /&gt;
+主部：一句話的&lt;span class=&#34;red&#34;&gt;主題&lt;/span&gt;&lt;br /&gt;
+敘部：&lt;span class=&#34;red&#34;&gt;敘述主題&lt;/span&gt;的句子&lt;/p&gt;
+&lt;h1 id=&#34;文ぶん法ぽう&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#文ぶん法ぽう&#34;&gt;#&lt;/a&gt; &lt;ruby&gt;文&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;ぶん&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; 法&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;ぽう&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;&lt;/h1&gt;
+&lt;p&gt;📖文法: &lt;ruby&gt;名&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;めい&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; 詞&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;し&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; A は&lt;ruby&gt;名&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;めい&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; 詞&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;し&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; B です。&lt;br /&gt;
+「～は～です」為名詞肯定句。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;例句&lt;/strong&gt;&lt;ruby&gt;私&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;わたし&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;&lt;ins&gt; は&lt;/ins&gt;&lt;ruby&gt;学&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;がく&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; 生&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;せい&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;&lt;ins&gt; です&lt;/ins&gt;。&lt;span class=&#34;green&#34;&gt;我是學生&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;例句中的「&lt;ruby&gt;私&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;わたし&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; は」即為主部「&lt;ruby&gt;学&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;がく&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; 生&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;せい&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; です」是敘部。&lt;/p&gt;
+&lt;div class=&#34;note info&#34;&gt;
+&lt;p&gt;【&lt;ruby&gt;助&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;じょ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; 詞&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;し&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;】&lt;br /&gt;
+助詞在日語中扮演非常重要的角色。句子中若沒有助詞的協助，單詞之間便無法產生關聯。甚至有些同樣的句子將助詞換掉，可以使整個句子的意思改變甚至無法理解。&lt;/p&gt;
+&lt;/div&gt;
+&lt;h1 id=&#34;は的意思&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#は的意思&#34;&gt;#&lt;/a&gt; は的意思&lt;/h1&gt;
+&lt;p&gt;「&lt;ruby&gt;は&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;wa&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;」在此文法中作為&lt;ruby&gt;助&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;じょ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; 詞&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;し&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; 使用，讀作「wa」。用來表示該劇的主題為は前面的名詞。&lt;br /&gt;
+例如說到「&lt;ruby&gt;東&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;とう&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; 京&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;きょう&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; は～」就可以知道接下來要說的都會和該句的主題&lt;ruby&gt;東&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;とう&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; 京&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;きょう&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; 有關。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;例句&lt;/strong&gt;&lt;ruby&gt;東&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;とう&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; 京&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;きょう&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;&lt;ins&gt; は&lt;/ins&gt;&lt;ruby&gt;日&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;に&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; 本&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;ほん&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; の&lt;ruby&gt;首&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;しゅ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; 都&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;と&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;&lt;ins&gt; です&lt;/ins&gt;。&lt;span class=&#34;green&#34;&gt;東京是日本的首都&lt;/span&gt;&lt;/p&gt;
+&lt;h1 id=&#34;です的意思&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#です的意思&#34;&gt;#&lt;/a&gt; です的意思&lt;/h1&gt;
+&lt;p&gt;日文的文體有分「&lt;ruby&gt;丁&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;てい&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; 寧&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;ねい&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; 体&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;たい&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;」和「&lt;ruby&gt;普&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;ふ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; 通&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;つう&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; 体&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;たい&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;」，「です」就是丁寧体，「だ」則是普通体，這兩個都屬於&lt;mark&gt;斷定助動詞&lt;/mark&gt;，用來表示句子的結束。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;例句&lt;/strong&gt;あなたが&lt;ruby&gt;好&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;す&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; き&lt;ins&gt;だ&lt;/ins&gt;。＝あなたが&lt;ruby&gt;好&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;す&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; き&lt;ins&gt;です&lt;/ins&gt;。&lt;span class=&#34;green&#34;&gt;我喜歡你。&lt;/span&gt;&lt;/p&gt;
+&lt;h1 id=&#34;丁てい寧ねい体たい普ふ通つう体たい&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#丁てい寧ねい体たい普ふ通つう体たい&#34;&gt;#&lt;/a&gt; &lt;ruby&gt;丁&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;てい&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; 寧&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;ねい&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; 体&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;たい&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;/&lt;ruby&gt; 普&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;ふ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; 通&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;つう&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; 体&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;たい&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;&lt;/h1&gt;
+&lt;p&gt;「&lt;ruby&gt;丁&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;てい&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; 寧&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;ねい&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; 体&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;たい&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;」又稱「禮貌體」，是對長輩上司或不熟的人所使用的文體，雖然說是敬體，但本身&lt;mark&gt;並無尊敬之意&lt;/mark&gt;，只有禮貌、客氣的意思。反過來則是「&lt;ruby&gt;普&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;ふ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; 通&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;つう&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; 体&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;たい&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;」，是對晚輩下屬或熟識的人所使用的文體。以上又可稱為「&lt;ruby&gt;敬&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;けい&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; 体&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;たい&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;／&lt;ruby&gt;常&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;じょう&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; 体&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;たい&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;」。&lt;/p&gt;
+&lt;h2 id=&#34;非過去式&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#非過去式&#34;&gt;#&lt;/a&gt; 非過去式&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;#&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;丁寧体&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;普通体&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;肯&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;ruby&gt;私&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;わたし&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; は&lt;ruby&gt;学&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;がく&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; 生&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;せい&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;&lt;span class=&#34;yellow&#34;&gt; です&lt;/span&gt;。&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;ruby&gt;私&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;わたし&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; は&lt;ruby&gt;学&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;がく&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; 生&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;せい&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;&lt;span class=&#34;yellow&#34;&gt; だ&lt;/span&gt;。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;否&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;ruby&gt;私&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;わたし&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; は&lt;ruby&gt;先生&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;せんせい&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;&lt;span class=&#34;yellow&#34;&gt; ではありません&lt;/span&gt;。&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;ruby&gt;私&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;わたし&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; は&lt;ruby&gt;先生&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;せんせい&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;&lt;span class=&#34;yellow&#34;&gt; ではない&lt;/span&gt;。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;過去式&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#過去式&#34;&gt;#&lt;/a&gt; 過去式&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;#&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;丁寧体&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;普通体&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;肯&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;ruby&gt;昨&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;き&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; 日&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;のう&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; は&lt;ruby&gt;月&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;げつ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; 曜&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;よう&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; 日&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;び&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;&lt;span class=&#34;yellow&#34;&gt; でした&lt;/span&gt;。&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;ruby&gt;昨&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;き&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; 日&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;のう&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; は&lt;ruby&gt;月&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;げつ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; 曜&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;よう&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; 日&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;び&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;&lt;span class=&#34;yellow&#34;&gt; だった&lt;/span&gt;。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;否&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;ruby&gt;昨&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;き&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; 日&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;のう&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; は&lt;ruby&gt;火&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;か&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; 曜&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;よう&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; 日&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;び&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;&lt;span class=&#34;yellow&#34;&gt; ではありませんでした&lt;/span&gt;。&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;昨日は&lt;ruby&gt;火&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;か&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; 曜&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;よう&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; 日&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;び&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;&lt;span class=&#34;yellow&#34;&gt; ではなかった&lt;/span&gt;。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;div class=&#34;note warning&#34;&gt;
+&lt;p&gt;【注意】&lt;br /&gt;
+名詞的否定用法有四種表現，意思皆相同，如下：&lt;br /&gt;
+丁寧體：ではありません = じゃありません = ではないです = じゃないです&lt;br /&gt;
+普通體：ではない = じゃない&lt;br /&gt;
+（越右邊 &amp;gt;&amp;gt; 越口語。）正式、鄭重 &amp;gt;&amp;gt; 口語、隨意&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;否定用法&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#否定用法&#34;&gt;#&lt;/a&gt; 否定用法&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;丁寧体在&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;丁嚀体過去&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;普通体現在&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;普通体過去&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;ではありません&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;ではありませんでした&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;ではない&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;ではなかった&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;じゃありません&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;じゃありませんでした&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;じゃない&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;じゃなかった&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;ではないです&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;ではなかったです&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;じゃないです&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;じゃなかったです&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;div class=&#34;note warning&#34;&gt;
+&lt;/div&gt;
+&lt;div class=&#34;note warning&#34;&gt;
+&lt;p&gt;寫作時要注意文體一致性，一般而言有傳達對象會使用丁寧体，無傳達對象則使用普通体。不論使用哪種文体，&lt;span class=&#34;red&#34;&gt;一旦使用了全篇就要統一使用該文体&lt;/span&gt;。&lt;/p&gt;
+&lt;/div&gt;
+&lt;h1 id=&#34;疑問句&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#疑問句&#34;&gt;#&lt;/a&gt; 疑問句&lt;/h1&gt;
+&lt;p&gt;使用用疑問句只要在肯定句的句末加上「か」即可，「か」是表示疑問的助詞，發音時聲調須提高。&lt;br /&gt;
+&lt;strong&gt;例句&lt;/strong&gt;あなたは&lt;ruby&gt;学&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;がく&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; 生&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;せい&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; です&lt;ins&gt;か&lt;/ins&gt;。&lt;span class=&#34;green&#34;&gt;你是學生嗎？&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;回答「是」時用「はい」，回答「不是」時用「いいえ」。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;yellow&#34;&gt;はい&lt;/span&gt;、学生です。&lt;span class=&#34;green&#34;&gt;是，我是學生。&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;yellow&#34;&gt;いいえ&lt;/span&gt;、学生ではありません。&lt;span class=&#34;green&#34;&gt;不是，我不是學生。&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;reference:&lt;/strong&gt;&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuc2lndXJlLnR3L2xlYXJuLWphcGFuZXNlL2dyYW1tYXIvbjUvMDEucGhw&#34;&gt; 時雨の町: N5 文法 01「名詞 — 主題與說明句」～は～です&lt;/span&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://yuto-0226.github.io/C/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B-%E6%BC%94%E7%AE%97%E6%B3%95/2022/perceptron/</guid>
             <title>感知機 PLA</title>

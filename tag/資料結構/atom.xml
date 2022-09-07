@@ -7,6 +7,7 @@
     <category term="筆記" />
     <category term="C++" />
     <category term="資料結構" />
+    <category term="Linked List" />
     <category term="vector" />
     <category term="類神經網路" />
     <category term="Python" />
@@ -14,7 +15,6 @@
     <category term="Hack Life" />
     <category term="LeetCode" />
     <category term="ZeroJudge" />
-    <category term="Linked List" />
     <entry>
         <id>https://yuto-0226.github.io/C/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B-%E6%BC%94%E7%AE%97%E6%B3%95/2022/DSA-BIT/</id>
         <title>BIT 樹狀樹組</title>

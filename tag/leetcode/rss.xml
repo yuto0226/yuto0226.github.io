@@ -10,6 +10,7 @@
         <category>筆記</category>
         <category>C++</category>
         <category>資料結構</category>
+        <category>Linked List</category>
         <category>vector</category>
         <category>類神經網路</category>
         <category>Python</category>
@@ -17,7 +18,6 @@
         <category>Hack Life</category>
         <category>LeetCode</category>
         <category>ZeroJudge</category>
-        <category>Linked List</category>
         <item>
             <guid isPermalink="true">https://yuto-0226.github.io/%E8%A7%A3%E9%A1%8C%E7%B4%80%E9%8C%84/LeetCode/2022/sqrtx/</guid>
             <title>[LeetCode] 69. Sqrt(x)(C++)</title>
