@@ -8,22 +8,22 @@
         <pubDate>Wed, 28 Sep 2022 19:04:33 +0800</pubDate>
         <lastBuildDate>Wed, 28 Sep 2022 19:04:33 +0800</lastBuildDate>
         <category>筆記</category>
-        <category>C++</category>
-        <category>Linked List</category>
-        <category>資料結構</category>
-        <category>vector</category>
-        <category>類神經網路</category>
         <category>Python</category>
         <category>網路爬蟲</category>
         <category>Hack Life</category>
-        <category>LeetCode</category>
-        <category>ZeroJudge</category>
-        <category>Linux</category>
-        <category>Shell</category>
-        <category>Terminal</category>
-        <category>日本語</category>
         <category>弓道</category>
         <category>日本文化</category>
+        <category>日本語</category>
+        <category>LeetCode</category>
+        <category>C++</category>
+        <category>ZeroJudge</category>
+        <category>資料結構</category>
+        <category>Linked List</category>
+        <category>類神經網路</category>
+        <category>Shell</category>
+        <category>Terminal</category>
+        <category>Linux</category>
+        <category>vector</category>
         <item>
             <guid isPermalink="true">https://yuto-0226.github.io/kyudou/shahouhassetsu/</guid>
             <title>射法八節</title>
@@ -61,9 +61,9 @@
             <guid isPermalink="true">https://yuto-0226.github.io/csie/missing-semester/missing-semester-01/</guid>
             <title>Lecture 1:Course Overview + The Shell</title>
             <link>https://yuto-0226.github.io/csie/missing-semester/missing-semester-01/</link>
-            <category>Linux</category>
             <category>Shell</category>
             <category>Terminal</category>
+            <category>Linux</category>
             <pubDate>Mon, 26 Sep 2022 17:30:41 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;MIT 的教授們所開設的課程。每堂課都有&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9taXNzaW5nLmNzYWlsLm1pdC5lZHUv&#34;&gt;線上筆記&lt;/span&gt;可以參考。&lt;/p&gt;
 &lt;h1 id=&#34;the-shell&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#the-shell&#34;&gt;#&lt;/a&gt; The Shell&lt;/h1&gt;
@@ -78,9 +78,9 @@
             <guid isPermalink="true">https://yuto-0226.github.io/csie/missing-semester/missing-semester-00/</guid>
             <title>Before the Course</title>
             <link>https://yuto-0226.github.io/csie/missing-semester/missing-semester-00/</link>
-            <category>Linux</category>
             <category>Shell</category>
             <category>Terminal</category>
+            <category>Linux</category>
             <pubDate>Mon, 26 Sep 2022 17:29:58 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;課程裡面所使用的環境都是類 UNIX 系統。如果你是 Windows 系統的話就要用 WSL 來模擬 LINUX 的環境，而且可能會有很多東西跟教授所講的不太一樣。接下來會用 Windows 11 操作。&lt;/p&gt;
 &lt;div class=&#34;note warning&#34;&gt;
@@ -444,8 +444,8 @@ CNN 分為三個部分：卷積層 (convolution layer)、池化層 (pooling laye
             <title>[LeetCode] 69. Sqrt(x)(C++)</title>
             <link>https://yuto-0226.github.io/sol/sqrtx/</link>
             <category>筆記</category>
-            <category>C++</category>
             <category>LeetCode</category>
+            <category>C++</category>
             <pubDate>Fri, 04 Mar 2022 19:50:42 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;題目&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#題目&#34;&gt;#&lt;/a&gt; 題目&lt;/h1&gt;
 &lt;p&gt;Given a non-negative integer  &lt;code&gt;x&lt;/code&gt; , compute and return the square root of  &lt;code&gt;x&lt;/code&gt; .&lt;/p&gt;
@@ -468,8 +468,8 @@ CNN 分為三個部分：卷積層 (convolution layer)、池化層 (pooling laye
             <title>[LeetCode] 1. Two-Sum(C++)</title>
             <link>https://yuto-0226.github.io/sol/two-sum/</link>
             <category>筆記</category>
-            <category>C++</category>
             <category>LeetCode</category>
+            <category>C++</category>
             <pubDate>Fri, 04 Mar 2022 19:32:42 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;題目&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#題目&#34;&gt;#&lt;/a&gt; 題目&lt;/h1&gt;
 &lt;p&gt;Given an array of integers  &lt;code&gt;nums&lt;/code&gt;  and an integer  &lt;code&gt;target&lt;/code&gt; , return indices of the two numbers such that they add up to  &lt;code&gt;target&lt;/code&gt; .&lt;/p&gt;
@@ -707,8 +707,8 @@ int main() &amp;#123;
             <link>https://yuto-0226.github.io/csie/C++/cpp-linkedlist/</link>
             <category>筆記</category>
             <category>C++</category>
-            <category>Linked List</category>
             <category>資料結構</category>
+            <category>Linked List</category>
             <pubDate>Sat, 01 Jan 2022 21:00:11 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;簡介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#簡介&#34;&gt;#&lt;/a&gt; 簡介&lt;/h1&gt;
 &lt;p&gt;何謂&lt;strong&gt;鏈接串列 (Linked List)&lt;/strong&gt;? 串列是一種常見的資料結構，&lt;br /&gt;
