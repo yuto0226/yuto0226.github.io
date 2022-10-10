@@ -18,10 +18,16 @@
         <category>Hack Life</category>
         <category>LeetCode</category>
         <category>ZeroJudge</category>
+        <category>Linux</category>
+        <category>Shell</category>
+        <category>Terminal</category>
+        <category>日本語</category>
+        <category>弓道</category>
+        <category>日本文化</category>
         <item>
-            <guid isPermalink="true">https://yuto-0226.github.io/%E4%BD%9C%E5%93%81/2021/popcat/</guid>
+            <guid isPermalink="true">https://yuto-0226.github.io/project/popcat/</guid>
             <title>POPCAT 自動連點器</title>
-            <link>https://yuto-0226.github.io/%E4%BD%9C%E5%93%81/2021/popcat/</link>
+            <link>https://yuto-0226.github.io/project/popcat/</link>
             <category>Python</category>
             <category>網路爬蟲</category>
             <category>Hack Life</category>

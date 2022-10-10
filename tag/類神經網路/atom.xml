@@ -15,10 +15,16 @@
     <category term="Hack Life" />
     <category term="LeetCode" />
     <category term="ZeroJudge" />
+    <category term="Linux" />
+    <category term="Shell" />
+    <category term="Terminal" />
+    <category term="日本語" />
+    <category term="弓道" />
+    <category term="日本文化" />
     <entry>
-        <id>https://yuto-0226.github.io/C/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B-%E6%BC%94%E7%AE%97%E6%B3%95/2022/perceptron/</id>
+        <id>https://yuto-0226.github.io/csie/C++/perceptron/</id>
         <title>感知機 PLA</title>
-        <link rel="alternate" href="https://yuto-0226.github.io/C/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B-%E6%BC%94%E7%AE%97%E6%B3%95/2022/perceptron/"/>
+        <link rel="alternate" href="https://yuto-0226.github.io/csie/C++/perceptron/"/>
         <content type="html">&lt;h1 id=&#34;感知機-pla&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#感知機-pla&#34;&gt;#&lt;/a&gt; 感知機 PLA&lt;/h1&gt;
 &lt;p&gt;針對線性資料的分類&lt;br /&gt;
 &lt;img data-src=&#34;./img/p_origin.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;

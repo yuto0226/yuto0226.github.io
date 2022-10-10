@@ -15,10 +15,16 @@
     <category term="Hack Life" />
     <category term="LeetCode" />
     <category term="ZeroJudge" />
+    <category term="Linux" />
+    <category term="Shell" />
+    <category term="Terminal" />
+    <category term="日本語" />
+    <category term="弓道" />
+    <category term="日本文化" />
     <entry>
-        <id>https://yuto-0226.github.io/C/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B-%E6%BC%94%E7%AE%97%E6%B3%95/2022/DSA-BIT/</id>
+        <id>https://yuto-0226.github.io/csie/C++/DSA-BIT/</id>
         <title>BIT 樹狀樹組</title>
-        <link rel="alternate" href="https://yuto-0226.github.io/C/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B-%E6%BC%94%E7%AE%97%E6%B3%95/2022/DSA-BIT/"/>
+        <link rel="alternate" href="https://yuto-0226.github.io/csie/C++/DSA-BIT/"/>
         <content type="html">&lt;h1 id=&#34;bit&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#bit&#34;&gt;#&lt;/a&gt; BIT&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;A Fenwick tree or binary indexed tree is a data structure that can efficiently update elements and calculate prefix sums in a table of numbers.&lt;br /&gt;
@@ -105,9 +111,9 @@ int main()&amp;#123;
         <updated>2022-04-01T03:52:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://yuto-0226.github.io/C/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B-%E6%BC%94%E7%AE%97%E6%B3%95/2022/cpp-linkedlist/</id>
+        <id>https://yuto-0226.github.io/csie/C++/cpp-linkedlist/</id>
         <title>鏈接串列 Linked List</title>
-        <link rel="alternate" href="https://yuto-0226.github.io/C/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B-%E6%BC%94%E7%AE%97%E6%B3%95/2022/cpp-linkedlist/"/>
+        <link rel="alternate" href="https://yuto-0226.github.io/csie/C++/cpp-linkedlist/"/>
         <content type="html">&lt;h1 id=&#34;簡介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#簡介&#34;&gt;#&lt;/a&gt; 簡介&lt;/h1&gt;
 &lt;p&gt;何謂&lt;strong&gt;鏈接串列 (Linked List)&lt;/strong&gt;? 串列是一種常見的資料結構，&lt;br /&gt;
 使用節點儲存資料，且透過接點的指標指向下一個節點，&lt;br /&gt;

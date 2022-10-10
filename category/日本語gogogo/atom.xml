@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yuto-0226.github.io</id>
+    <title>悠人的筆記本 • Posts by &#34;日本語gogogo&#34; category</title>
+    <link href="https://yuto-0226.github.io" />
+    <updated>2022-09-27T12:47:41.000Z</updated>
+    <category term="筆記" />
+    <category term="C++" />
+    <category term="Linked List" />
+    <category term="資料結構" />
+    <category term="vector" />
+    <category term="類神經網路" />
+    <category term="Python" />
+    <category term="網路爬蟲" />
+    <category term="Hack Life" />
+    <category term="LeetCode" />
+    <category term="ZeroJudge" />
+    <category term="Linux" />
+    <category term="Shell" />
+    <category term="Terminal" />
+    <category term="日本語" />
+    <category term="弓道" />
+    <category term="日本文化" />
+    <entry>
+        <id>https://yuto-0226.github.io/nihongo/%E6%97%A5%E6%9C%AC%E8%AA%9Egogogo-01/</id>
+        <title>第一課</title>
+        <link rel="alternate" href="https://yuto-0226.github.io/nihongo/%E6%97%A5%E6%9C%AC%E8%AA%9Egogogo-01/"/>
+        <content type="html">&lt;h1 id=&#34;~は~です&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#~は~です&#34;&gt;#&lt;/a&gt; ～は～です&lt;/h1&gt;
+&lt;p&gt;私は学生です。&lt;span class=&#34;green&#34;&gt;我是學生&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&#34;yellow&#34;&gt;は&lt;/span&gt;在這種句型作助詞讀作「wa」而不是「ha」，在這邊表示在前面的名詞是整句的主題&lt;br /&gt;
+&lt;span class=&#34;yellow&#34;&gt;です&lt;/span&gt;則是表達肯定&lt;/p&gt;
+&lt;h1 id=&#34;~は~ですか&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#~は~ですか&#34;&gt;#&lt;/a&gt; ～は～ですか&lt;/h1&gt;
+</content>
+        <category term="日本語" />
+        <updated>2022-09-27T12:47:41.000Z</updated>
+    </entry>
+</feed>

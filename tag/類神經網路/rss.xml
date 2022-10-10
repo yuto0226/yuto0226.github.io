@@ -18,10 +18,16 @@
         <category>Hack Life</category>
         <category>LeetCode</category>
         <category>ZeroJudge</category>
+        <category>Linux</category>
+        <category>Shell</category>
+        <category>Terminal</category>
+        <category>日本語</category>
+        <category>弓道</category>
+        <category>日本文化</category>
         <item>
-            <guid isPermalink="true">https://yuto-0226.github.io/C/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B-%E6%BC%94%E7%AE%97%E6%B3%95/2022/perceptron/</guid>
+            <guid isPermalink="true">https://yuto-0226.github.io/csie/C++/perceptron/</guid>
             <title>感知機 PLA</title>
-            <link>https://yuto-0226.github.io/C/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B-%E6%BC%94%E7%AE%97%E6%B3%95/2022/perceptron/</link>
+            <link>https://yuto-0226.github.io/csie/C++/perceptron/</link>
             <category>筆記</category>
             <category>C++</category>
             <category>類神經網路</category>

@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "悠人的筆記本 • All posts by \"日本語gogogo\" category",
+    "description": "CSE 筆記",
+    "home_page_url": "https://yuto-0226.github.io",
+    "items": [
+        {
+            "id": "https://yuto-0226.github.io/nihongo/%E6%97%A5%E6%9C%AC%E8%AA%9Egogogo-01/",
+            "url": "https://yuto-0226.github.io/nihongo/%E6%97%A5%E6%9C%AC%E8%AA%9Egogogo-01/",
+            "title": "第一課",
+            "date_published": "2022-09-27T12:47:41.000Z",
+            "content_html": "<h1 id=\"~は~です\"><a class=\"anchor\" href=\"#~は~です\">#</a> ～は～です</h1>\n<p>私は学生です。<span class=\"green\">我是學生</span><br />\n<span class=\"yellow\">は</span>在這種句型作助詞讀作「wa」而不是「ha」，在這邊表示在前面的名詞是整句的主題<br />\n<span class=\"yellow\">です</span>則是表達肯定</p>\n<h1 id=\"~は~ですか\"><a class=\"anchor\" href=\"#~は~ですか\">#</a> ～は～ですか</h1>\n",
+            "tags": [
+                "日本語"
+            ]
+        }
+    ]
+}

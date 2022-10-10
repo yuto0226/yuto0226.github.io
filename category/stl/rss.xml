@@ -18,10 +18,16 @@
         <category>Hack Life</category>
         <category>LeetCode</category>
         <category>ZeroJudge</category>
+        <category>Linux</category>
+        <category>Shell</category>
+        <category>Terminal</category>
+        <category>日本語</category>
+        <category>弓道</category>
+        <category>日本文化</category>
         <item>
-            <guid isPermalink="true">https://yuto-0226.github.io/C/STL/2022/cpp-vector/</guid>
+            <guid isPermalink="true">https://yuto-0226.github.io/csie/C++/cpp-vector/</guid>
             <title>向量 Vector(STL)</title>
-            <link>https://yuto-0226.github.io/C/STL/2022/cpp-vector/</link>
+            <link>https://yuto-0226.github.io/csie/C++/cpp-vector/</link>
             <category>筆記</category>
             <category>C++</category>
             <category>vector</category>
