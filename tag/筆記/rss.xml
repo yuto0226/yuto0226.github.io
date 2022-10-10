@@ -7,23 +7,24 @@
         <language>zh-TW</language>
         <pubDate>Thu, 12 May 2022 14:20:28 +0800</pubDate>
         <lastBuildDate>Thu, 12 May 2022 14:20:28 +0800</lastBuildDate>
-        <category>筆記</category>
-        <category>日本語</category>
+        <category>Linux</category>
+        <category>組合語言</category>
         <category>弓道</category>
         <category>日本文化</category>
-        <category>LeetCode</category>
-        <category>C++</category>
-        <category>ZeroJudge</category>
+        <category>日本語</category>
         <category>Python</category>
         <category>網路爬蟲</category>
         <category>Hack Life</category>
+        <category>筆記</category>
+        <category>LeetCode</category>
+        <category>C++</category>
+        <category>ZeroJudge</category>
         <category>資料結構</category>
-        <category>vector</category>
         <category>Linked List</category>
+        <category>vector</category>
         <category>類神經網路</category>
         <category>Shell</category>
         <category>Terminal</category>
-        <category>Linux</category>
         <item>
             <guid isPermalink="true">https://yuto-0226.github.io/csie/C++/perceptron/</guid>
             <title>感知機 PLA</title>

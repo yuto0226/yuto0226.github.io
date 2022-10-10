@@ -1,0 +1,19 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "悠人的筆記本 • All posts by \"組合語言\" tag",
+    "description": "CSE 筆記",
+    "home_page_url": "https://yuto-0226.github.io",
+    "items": [
+        {
+            "id": "https://yuto-0226.github.io/csie/asm-dev-seting/",
+            "url": "https://yuto-0226.github.io/csie/asm-dev-seting/",
+            "title": "組合語言開發環境設定",
+            "date_published": "2022-10-10T14:09:59.000Z",
+            "content_html": "<p>之前曾經嘗試在 Windows 上學寫組合語言，得到的回饋只有滿滿的問號。編譯過程出現了很多跟在 Linux 上不同的例外，這更證明了學習程式語言不難，難的是設定開發環境。<br />\n山不轉路轉路不轉人轉，我們直接用 WSL 上的環境去開發，就可以直接省去很多只會阻饒你學習的問題。而關於 Windows Terminal 和 WSL 的安裝可以參考<a href=\"./csie/missing-semester/missing-semester-00/\"> Before the Course</a></p>\n<h1 id=\"編譯工具\"><a class=\"anchor\" href=\"#編譯工具\">#</a> 編譯工具</h1>\n<p>回歸正題，編譯組合語言會需要兩個程式:  <code>nasm</code> 、 <code>ld</code> 。 <code>nasm</code>  是用來把 <code>.asm</code>  檔轉成 <code>.o</code>  檔，而 <code>ld</code>  則是再把 <code>.o</code>  轉成可以執行的檔案。</p>\n<h2 id=\"更新-apt\"><a class=\"anchor\" href=\"#更新-apt\">#</a> 更新 apt</h2>\n<p>安裝套件前要把 apt 更新上去，不然有機會會找不到東西安裝冏事發生 (本人我還真的卡了一下)</p>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"><span>WSL</span></figcaption><table><tr><td data-num=\"1\"></td><td data-command=\"[root@localhost] $\"></td><td><pre><span class=\"token function\">sudo</span> <span class=\"token function\">apt-get</span> update</pre></td></tr><tr><td data-num=\"2\"></td><td data-command=\"[root@localhost] $\"></td><td><pre><span class=\"token function\">sudo</span> <span class=\"token function\">apt</span> upgrade</pre></td></tr></table></figure><h2 id=\"nasm\"><a class=\"anchor\" href=\"#nasm\">#</a> nasm</h2>\n<p>其實安裝 NASM 很簡單，直接用 Ubuntu 內建的套件管理包安裝就行了。</p>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"><span>WSL</span></figcaption><table><tr><td data-num=\"1\"></td><td data-command=\"[root@localhost] $\"></td><td><pre><span class=\"token function\">sudo</span> <span class=\"token function\">apt</span> <span class=\"token function\">install</span> nasm</pre></td></tr></table></figure><h2 id=\"ld\"><a class=\"anchor\" href=\"#ld\">#</a> ld</h2>\n<p>ld 的話在 GCC 裡面有內建，所以如果要裝的話要裝 GCC，也就是編譯 C/C++ 的工具。</p>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"><span>WSL</span></figcaption><table><tr><td data-num=\"1\"></td><td data-command=\"[root@localhost] $\"></td><td><pre><span class=\"token function\">sudo</span> <span class=\"token function\">apt</span> <span class=\"token function\">install</span> nasm</pre></td></tr></table></figure>",
+            "tags": [
+                "Linux",
+                "組合語言"
+            ]
+        }
+    ]
+}
