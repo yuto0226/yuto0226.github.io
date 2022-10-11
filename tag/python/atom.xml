@@ -4,24 +4,24 @@
     <title>悠人的筆記本 • Posts by &#34;python&#34; tag</title>
     <link href="https://yuto-0226.github.io" />
     <updated>2021-08-18T11:13:26.000Z</updated>
-    <category term="Linux" />
-    <category term="組合語言" />
     <category term="弓道" />
     <category term="日本文化" />
-    <category term="日本語" />
+    <category term="筆記" />
+    <category term="C++" />
+    <category term="ZeroJudge" />
+    <category term="Linux" />
+    <category term="組合語言" />
+    <category term="LeetCode" />
     <category term="Python" />
     <category term="網路爬蟲" />
     <category term="Hack Life" />
-    <category term="筆記" />
-    <category term="LeetCode" />
-    <category term="C++" />
-    <category term="ZeroJudge" />
     <category term="資料結構" />
-    <category term="Linked List" />
     <category term="vector" />
+    <category term="Linked List" />
     <category term="類神經網路" />
     <category term="Shell" />
     <category term="Terminal" />
+    <category term="日本語" />
     <entry>
         <id>https://yuto-0226.github.io/project/popcat/</id>
         <title>POPCAT 自動連點器</title>

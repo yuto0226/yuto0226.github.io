@@ -3,29 +3,71 @@
     <id>https://yuto-0226.github.io</id>
     <title>悠人的筆記本 • Posts by &#34;日本語&#34; tag</title>
     <link href="https://yuto-0226.github.io" />
-    <updated>2022-09-27T12:47:41.000Z</updated>
-    <category term="Linux" />
-    <category term="組合語言" />
+    <updated>2022-10-11T11:38:00.000Z</updated>
     <category term="弓道" />
     <category term="日本文化" />
-    <category term="日本語" />
+    <category term="筆記" />
+    <category term="C++" />
+    <category term="ZeroJudge" />
+    <category term="Linux" />
+    <category term="組合語言" />
+    <category term="LeetCode" />
     <category term="Python" />
     <category term="網路爬蟲" />
     <category term="Hack Life" />
-    <category term="筆記" />
-    <category term="LeetCode" />
-    <category term="C++" />
-    <category term="ZeroJudge" />
     <category term="資料結構" />
-    <category term="Linked List" />
     <category term="vector" />
+    <category term="Linked List" />
     <category term="類神經網路" />
     <category term="Shell" />
     <category term="Terminal" />
+    <category term="日本語" />
     <entry>
-        <id>https://yuto-0226.github.io/nihongo/%E6%97%A5%E6%9C%AC%E8%AA%9Egogogo-01/</id>
+        <id>https://yuto-0226.github.io/nihongo/nihhongo-gogogo/%E6%97%A5%E6%9C%AC%E8%AA%9Egogogo-23/</id>
+        <title>第二十三課</title>
+        <link rel="alternate" href="https://yuto-0226.github.io/nihongo/nihhongo-gogogo/%E6%97%A5%E6%9C%AC%E8%AA%9Egogogo-23/"/>
+        <content type="html">&lt;p&gt;這一課主要在講表想要的文法&lt;/p&gt;
+&lt;h1 id=&#34;nが欲しい&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#nが欲しい&#34;&gt;#&lt;/a&gt; N が欲しい&lt;/h1&gt;
+&lt;p&gt;「欲しい」是「い形容詞」，中文是「想要」。用「が」表示「欲しい」的對象。&lt;/p&gt;
+&lt;p&gt;📖文法：〔一人称〕は N が欲しいです&lt;/p&gt;
+&lt;p&gt;📖文法：〔二人称〕は N が欲しいですか&lt;/p&gt;
+&lt;p&gt;「欲しい」只能用於表達自己的感受，不能用在別人身上。ex.○○さんは○○が欲しいです。&lt;/p&gt;
+&lt;p&gt;📖文法：〔三人称〕は N が欲しがっています&lt;/p&gt;
+&lt;p&gt;用在別人身上的話要用「接尾語」ー「がる」去「い」加上去變成「欲しがる」【Ⅰ 類】，助詞為「を」，在用「～ている」表達現在想要。&lt;/p&gt;
+&lt;h1 id=&#34;ます形たい&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ます形たい&#34;&gt;#&lt;/a&gt; 〔ます形〕たい&lt;/h1&gt;
+&lt;p&gt;📖文法：〔一人称〕は N〔ます形〕たいです&lt;/p&gt;
+&lt;p&gt;📖文法：〔二人称〕は N〔ます形〕たいですか&lt;/p&gt;
+&lt;p&gt;同「~ が欲しい」用於表達自己的感受，切勿用於別人。句尾變化同「い形容詞」。&lt;/p&gt;
+&lt;h1 id=&#34;~が欲しい-vs-~たい&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#~が欲しい-vs-~たい&#34;&gt;#&lt;/a&gt; 「～が欲しい」 VS. 「～たい」&lt;/h1&gt;
+&lt;p&gt;「～が欲しい」：後面加名詞。&lt;/p&gt;
+&lt;p&gt;「～たい」：加上具有動作性的名詞。&lt;/p&gt;
+&lt;h1 id=&#34;三人称的たい&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#三人称的たい&#34;&gt;#&lt;/a&gt; 三人称的たい&lt;/h1&gt;
+&lt;p&gt;📖文法：〔三人称〕は V たいと言っています&lt;/p&gt;
+&lt;p&gt;「〔三人称〕は～と言ます（＝某某人說）」可以用來轉述第三者的話，改成「～ています」則是強調目前 or 最近說的。&lt;/p&gt;
+&lt;p&gt;📖文法：〔三人称〕は V たがっています&lt;/p&gt;
+&lt;p&gt;也可以用「〔三人称〕は～たがる」表示某某人希望做，「たがる」是由「たい」變化而來屬於【Ⅰ 類】。&lt;/p&gt;
+&lt;h1 id=&#34;其他文法事項&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#其他文法事項&#34;&gt;#&lt;/a&gt; 其他文法事項&lt;/h1&gt;
+&lt;h2 id=&#34;上手になりたい&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#上手になりたい&#34;&gt;#&lt;/a&gt; 上手になりたい&lt;/h2&gt;
+&lt;p&gt;例：日本語が上手になりたいです&lt;/p&gt;
+&lt;p&gt;「なる」有變成；成為之意。「上手になる」可以解釋為變得擅長。「上手だ」是屬「な形容詞」，後面接動詞時（「なる」）要轉成副詞形「上手に」。&lt;/p&gt;
+&lt;h2 id=&#34;nになる&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#nになる&#34;&gt;#&lt;/a&gt; N になる&lt;/h2&gt;
+&lt;p&gt;例：今年の冬、私は母になります&lt;br /&gt;
+有 [成為～；當～] 的意思，助詞「に」接名詞後表示變化後的結果&lt;/p&gt;
+&lt;h2 id=&#34;合格する&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#合格する&#34;&gt;#&lt;/a&gt; 合格する&lt;/h2&gt;
+&lt;p&gt;例：日本語能力試験に合格したいです&lt;br /&gt;
+用「に」表示合格的對象&lt;/p&gt;
+&lt;h2 id=&#34;いる&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#いる&#34;&gt;#&lt;/a&gt; いる&lt;/h2&gt;
+&lt;p&gt;「いる」除了有 [有；在] 的意思外，也有 [住在；待在] 的意思&lt;/p&gt;
+&lt;h2 id=&#34;~までに&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#~までに&#34;&gt;#&lt;/a&gt; ～までに&lt;/h2&gt;
+&lt;p&gt;「～までに」[在～之前] 表示時間的最後期限。接於名詞或動詞辞書形之後。&lt;/p&gt;
+</content>
+        <category term="日本語" />
+        <updated>2022-10-11T11:38:00.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://yuto-0226.github.io/nihongo/nihhongo-gogogo/%E6%97%A5%E6%9C%AC%E8%AA%9Egogogo-01/</id>
         <title>第一課</title>
-        <link rel="alternate" href="https://yuto-0226.github.io/nihongo/%E6%97%A5%E6%9C%AC%E8%AA%9Egogogo-01/"/>
+        <link rel="alternate" href="https://yuto-0226.github.io/nihongo/nihhongo-gogogo/%E6%97%A5%E6%9C%AC%E8%AA%9Egogogo-01/"/>
         <content type="html">&lt;h1 id=&#34;~は~です&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#~は~です&#34;&gt;#&lt;/a&gt; ～は～です&lt;/h1&gt;
 &lt;p&gt;私は学生です。&lt;span class=&#34;green&#34;&gt;我是學生&lt;/span&gt;&lt;br /&gt;
 &lt;span class=&#34;yellow&#34;&gt;は&lt;/span&gt;在這種句型作助詞讀作「wa」而不是「ha」，在這邊表示在前面的名詞是整句的主題&lt;br /&gt;

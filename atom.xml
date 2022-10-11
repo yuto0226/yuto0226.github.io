@@ -3,25 +3,67 @@
     <id>https://yuto-0226.github.io</id>
     <title>悠人的筆記本</title>
     <link href="https://yuto-0226.github.io" />
-    <updated>2022-10-10T14:09:59.000Z</updated>
-    <category term="Linux" />
-    <category term="組合語言" />
+    <updated>2022-10-11T11:38:00.000Z</updated>
     <category term="弓道" />
     <category term="日本文化" />
-    <category term="日本語" />
+    <category term="筆記" />
+    <category term="C++" />
+    <category term="ZeroJudge" />
+    <category term="Linux" />
+    <category term="組合語言" />
+    <category term="LeetCode" />
     <category term="Python" />
     <category term="網路爬蟲" />
     <category term="Hack Life" />
-    <category term="筆記" />
-    <category term="LeetCode" />
-    <category term="C++" />
-    <category term="ZeroJudge" />
     <category term="資料結構" />
-    <category term="Linked List" />
     <category term="vector" />
+    <category term="Linked List" />
     <category term="類神經網路" />
     <category term="Shell" />
     <category term="Terminal" />
+    <category term="日本語" />
+    <entry>
+        <id>https://yuto-0226.github.io/nihongo/nihhongo-gogogo/%E6%97%A5%E6%9C%AC%E8%AA%9Egogogo-23/</id>
+        <title>第二十三課</title>
+        <link rel="alternate" href="https://yuto-0226.github.io/nihongo/nihhongo-gogogo/%E6%97%A5%E6%9C%AC%E8%AA%9Egogogo-23/"/>
+        <content type="html">&lt;p&gt;這一課主要在講表想要的文法&lt;/p&gt;
+&lt;h1 id=&#34;nが欲しい&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#nが欲しい&#34;&gt;#&lt;/a&gt; N が欲しい&lt;/h1&gt;
+&lt;p&gt;「欲しい」是「い形容詞」，中文是「想要」。用「が」表示「欲しい」的對象。&lt;/p&gt;
+&lt;p&gt;📖文法：〔一人称〕は N が欲しいです&lt;/p&gt;
+&lt;p&gt;📖文法：〔二人称〕は N が欲しいですか&lt;/p&gt;
+&lt;p&gt;「欲しい」只能用於表達自己的感受，不能用在別人身上。ex.○○さんは○○が欲しいです。&lt;/p&gt;
+&lt;p&gt;📖文法：〔三人称〕は N が欲しがっています&lt;/p&gt;
+&lt;p&gt;用在別人身上的話要用「接尾語」ー「がる」去「い」加上去變成「欲しがる」【Ⅰ 類】，助詞為「を」，在用「～ている」表達現在想要。&lt;/p&gt;
+&lt;h1 id=&#34;ます形たい&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ます形たい&#34;&gt;#&lt;/a&gt; 〔ます形〕たい&lt;/h1&gt;
+&lt;p&gt;📖文法：〔一人称〕は N〔ます形〕たいです&lt;/p&gt;
+&lt;p&gt;📖文法：〔二人称〕は N〔ます形〕たいですか&lt;/p&gt;
+&lt;p&gt;同「~ が欲しい」用於表達自己的感受，切勿用於別人。句尾變化同「い形容詞」。&lt;/p&gt;
+&lt;h1 id=&#34;~が欲しい-vs-~たい&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#~が欲しい-vs-~たい&#34;&gt;#&lt;/a&gt; 「～が欲しい」 VS. 「～たい」&lt;/h1&gt;
+&lt;p&gt;「～が欲しい」：後面加名詞。&lt;/p&gt;
+&lt;p&gt;「～たい」：加上具有動作性的名詞。&lt;/p&gt;
+&lt;h1 id=&#34;三人称的たい&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#三人称的たい&#34;&gt;#&lt;/a&gt; 三人称的たい&lt;/h1&gt;
+&lt;p&gt;📖文法：〔三人称〕は V たいと言っています&lt;/p&gt;
+&lt;p&gt;「〔三人称〕は～と言ます（＝某某人說）」可以用來轉述第三者的話，改成「～ています」則是強調目前 or 最近說的。&lt;/p&gt;
+&lt;p&gt;📖文法：〔三人称〕は V たがっています&lt;/p&gt;
+&lt;p&gt;也可以用「〔三人称〕は～たがる」表示某某人希望做，「たがる」是由「たい」變化而來屬於【Ⅰ 類】。&lt;/p&gt;
+&lt;h1 id=&#34;其他文法事項&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#其他文法事項&#34;&gt;#&lt;/a&gt; 其他文法事項&lt;/h1&gt;
+&lt;h2 id=&#34;上手になりたい&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#上手になりたい&#34;&gt;#&lt;/a&gt; 上手になりたい&lt;/h2&gt;
+&lt;p&gt;例：日本語が上手になりたいです&lt;/p&gt;
+&lt;p&gt;「なる」有變成；成為之意。「上手になる」可以解釋為變得擅長。「上手だ」是屬「な形容詞」，後面接動詞時（「なる」）要轉成副詞形「上手に」。&lt;/p&gt;
+&lt;h2 id=&#34;nになる&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#nになる&#34;&gt;#&lt;/a&gt; N になる&lt;/h2&gt;
+&lt;p&gt;例：今年の冬、私は母になります&lt;br /&gt;
+有 [成為～；當～] 的意思，助詞「に」接名詞後表示變化後的結果&lt;/p&gt;
+&lt;h2 id=&#34;合格する&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#合格する&#34;&gt;#&lt;/a&gt; 合格する&lt;/h2&gt;
+&lt;p&gt;例：日本語能力試験に合格したいです&lt;br /&gt;
+用「に」表示合格的對象&lt;/p&gt;
+&lt;h2 id=&#34;いる&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#いる&#34;&gt;#&lt;/a&gt; いる&lt;/h2&gt;
+&lt;p&gt;「いる」除了有 [有；在] 的意思外，也有 [住在；待在] 的意思&lt;/p&gt;
+&lt;h2 id=&#34;~までに&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#~までに&#34;&gt;#&lt;/a&gt; ～までに&lt;/h2&gt;
+&lt;p&gt;「～までに」[在～之前] 表示時間的最後期限。接於名詞或動詞辞書形之後。&lt;/p&gt;
+</content>
+        <category term="日本語" />
+        <updated>2022-10-11T11:38:00.000Z</updated>
+    </entry>
     <entry>
         <id>https://yuto-0226.github.io/csie/asm-dev-seting/</id>
         <title>組合語言開發環境設定</title>
@@ -62,9 +104,9 @@
         <updated>2022-09-28T11:04:33.000Z</updated>
     </entry>
     <entry>
-        <id>https://yuto-0226.github.io/nihongo/%E6%97%A5%E6%9C%AC%E8%AA%9Egogogo-01/</id>
+        <id>https://yuto-0226.github.io/nihongo/nihhongo-gogogo/%E6%97%A5%E6%9C%AC%E8%AA%9Egogogo-01/</id>
         <title>第一課</title>
-        <link rel="alternate" href="https://yuto-0226.github.io/nihongo/%E6%97%A5%E6%9C%AC%E8%AA%9Egogogo-01/"/>
+        <link rel="alternate" href="https://yuto-0226.github.io/nihongo/nihhongo-gogogo/%E6%97%A5%E6%9C%AC%E8%AA%9Egogogo-01/"/>
         <content type="html">&lt;h1 id=&#34;~は~です&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#~は~です&#34;&gt;#&lt;/a&gt; ～は～です&lt;/h1&gt;
 &lt;p&gt;私は学生です。&lt;span class=&#34;green&#34;&gt;我是學生&lt;/span&gt;&lt;br /&gt;
 &lt;span class=&#34;yellow&#34;&gt;は&lt;/span&gt;在這種句型作助詞讀作「wa」而不是「ha」，在這邊表示在前面的名詞是整句的主題&lt;br /&gt;
@@ -475,8 +517,8 @@ CNN 分為三個部分：卷積層 (convolution layer)、池化層 (pooling laye
 &lt;h1 id=&#34;參考程式碼&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#參考程式碼&#34;&gt;#&lt;/a&gt; 參考程式碼&lt;/h1&gt;
 &lt;figure class=&#34;highlight cpp&#34;&gt;&lt;figcaption data-lang=&#34;C++&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;token class-name&#34;&gt;Solution&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;public&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;mySqrt&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; x&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;long&lt;/span&gt; count&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; temp&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;while&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token boolean&#34;&gt;true&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            &lt;span class=&#34;token keyword&#34;&gt;if&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;count&lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt;count&lt;span class=&#34;token operator&#34;&gt;&gt;&lt;/span&gt;x&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;                &lt;span class=&#34;token keyword&#34;&gt;return&lt;/span&gt; temp&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            temp&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;count&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            count&lt;span class=&#34;token operator&#34;&gt;++&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;15&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</content>
         <category term="筆記" />
-        <category term="LeetCode" />
         <category term="C++" />
+        <category term="LeetCode" />
         <updated>2022-03-04T11:50:42.000Z</updated>
     </entry>
     <entry>
@@ -502,8 +544,8 @@ CNN 分為三個部分：卷積層 (convolution layer)、池化層 (pooling laye
 &lt;h1 id=&#34;參考程式碼&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#參考程式碼&#34;&gt;#&lt;/a&gt; 參考程式碼&lt;/h1&gt;
 &lt;figure class=&#34;highlight cpp&#34;&gt;&lt;figcaption data-lang=&#34;C++&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;token class-name&#34;&gt;Solution&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;public&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    vector&lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;&gt;&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;twoSum&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;vector&lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;&gt;&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;&amp;amp;&lt;/span&gt; nums&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; target&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;for&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; i&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;i&lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt;nums&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;size&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;i&lt;span class=&#34;token operator&#34;&gt;++&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            &lt;span class=&#34;token keyword&#34;&gt;for&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; j&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;i&lt;span class=&#34;token operator&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;j&lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt;nums&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;size&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;j&lt;span class=&#34;token operator&#34;&gt;++&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;                &lt;span class=&#34;token keyword&#34;&gt;if&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;nums&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;i&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;+&lt;/span&gt;nums&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;j&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;==&lt;/span&gt;target&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;                    &lt;span class=&#34;token keyword&#34;&gt;return&lt;/span&gt; vector&lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;&gt;&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;i&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;j&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;                &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</content>
         <category term="筆記" />
-        <category term="LeetCode" />
         <category term="C++" />
+        <category term="LeetCode" />
         <updated>2022-03-04T11:32:42.000Z</updated>
     </entry>
     <entry>
