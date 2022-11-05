@@ -7,21 +7,18 @@
         <language>zh-TW</language>
         <pubDate>Sat, 15 Oct 2022 11:47:18 +0800</pubDate>
         <lastBuildDate>Sat, 15 Oct 2022 11:47:18 +0800</lastBuildDate>
+        <category>C++</category>
         <category>Linux</category>
         <category>組合語言</category>
         <category>筆記</category>
         <category>弓道</category>
         <category>日本文化</category>
-        <category>ZeroJudge</category>
-        <category>LeetCode</category>
-        <category>C++</category>
         <category>Python</category>
         <category>網路爬蟲</category>
         <category>Hack Life</category>
-        <category>資料結構</category>
-        <category>Linked List</category>
+        <category>ZeroJudge</category>
+        <category>LeetCode</category>
         <category>vector</category>
-        <category>類神經網路</category>
         <category>Shell</category>
         <category>Terminal</category>
         <category>日本語</category>
@@ -55,9 +52,9 @@ Y_2=A_2X_2^2+B_2X_2+C_2
             <guid isPermalink="true">https://yuto-0226.github.io/sol/zj-e798/</guid>
             <title>e798 卷積神經網路</title>
             <link>https://yuto-0226.github.io/sol/zj-e798/</link>
+            <category>C++</category>
             <category>筆記</category>
             <category>ZeroJudge</category>
-            <category>C++</category>
             <pubDate>Fri, 18 Mar 2022 18:48:23 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;題目&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#題目&#34;&gt;#&lt;/a&gt; 題目&lt;/h1&gt;
 &lt;p&gt;2019TOI1214 新手同好會 5. 卷積神經網路 (CNN)  {&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly90b2ktcmVnLmNzaWUubnRudS5lZHUudHcvd3AtY29udGVudC91cGxvYWRzL3F1ZXN0aW9uLzIwMTkxMi1vbnNpdGUvNS1DTk4ucGRm&#34;&gt;試題連結&lt;/span&gt;}&lt;/p&gt;
@@ -89,9 +86,9 @@ CNN 分為三個部分：卷積層 (convolution layer)、池化層 (pooling laye
             <guid isPermalink="true">https://yuto-0226.github.io/sol/sqrtx/</guid>
             <title>[LeetCode] 69. Sqrt(x)(C++)</title>
             <link>https://yuto-0226.github.io/sol/sqrtx/</link>
+            <category>C++</category>
             <category>筆記</category>
             <category>LeetCode</category>
-            <category>C++</category>
             <pubDate>Fri, 04 Mar 2022 19:50:42 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;題目&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#題目&#34;&gt;#&lt;/a&gt; 題目&lt;/h1&gt;
 &lt;p&gt;Given a non-negative integer  &lt;code&gt;x&lt;/code&gt; , compute and return the square root of  &lt;code&gt;x&lt;/code&gt; .&lt;/p&gt;
@@ -113,9 +110,9 @@ CNN 分為三個部分：卷積層 (convolution layer)、池化層 (pooling laye
             <guid isPermalink="true">https://yuto-0226.github.io/sol/two-sum/</guid>
             <title>[LeetCode] 1. Two-Sum(C++)</title>
             <link>https://yuto-0226.github.io/sol/two-sum/</link>
+            <category>C++</category>
             <category>筆記</category>
             <category>LeetCode</category>
-            <category>C++</category>
             <pubDate>Fri, 04 Mar 2022 19:32:42 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;題目&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#題目&#34;&gt;#&lt;/a&gt; 題目&lt;/h1&gt;
 &lt;p&gt;Given an array of integers  &lt;code&gt;nums&lt;/code&gt;  and an integer  &lt;code&gt;target&lt;/code&gt; , return indices of the two numbers such that they add up to  &lt;code&gt;target&lt;/code&gt; .&lt;/p&gt;
