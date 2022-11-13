@@ -9,23 +9,23 @@
         <lastBuildDate>Sun, 13 Nov 2022 20:21:16 +0800</lastBuildDate>
         <category>Linux</category>
         <category>組合語言</category>
-        <category>弓道</category>
-        <category>日本文化</category>
         <category>筆記</category>
         <category>C++</category>
         <category>Computer Architecture</category>
         <category>Assembly Language</category>
+        <category>弓道</category>
+        <category>日本文化</category>
         <category>LeetCode</category>
         <category>Python</category>
         <category>網路爬蟲</category>
         <category>Hack Life</category>
         <category>ZeroJudge</category>
-        <category>Shell</category>
-        <category>Terminal</category>
         <category>vector</category>
+        <category>Linked List</category>
         <category>資料結構</category>
         <category>類神經網路</category>
-        <category>Linked List</category>
+        <category>Shell</category>
+        <category>Terminal</category>
         <category>日本語</category>
         <item>
             <guid isPermalink="true">https://yuto-0226.github.io/csie/DSA/segment-tree/</guid>
@@ -387,8 +387,8 @@
             <link>https://yuto-0226.github.io/csie/DSA/cpp-linkedlist/</link>
             <category>筆記</category>
             <category>C++</category>
-            <category>資料結構</category>
             <category>Linked List</category>
+            <category>資料結構</category>
             <pubDate>Sat, 01 Jan 2022 21:00:11 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;簡介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#簡介&#34;&gt;#&lt;/a&gt; 簡介&lt;/h1&gt;
 &lt;p&gt;何謂&lt;strong&gt;鏈接串列 (Linked List)&lt;/strong&gt;? 串列是一種常見的資料結構，&lt;br /&gt;
