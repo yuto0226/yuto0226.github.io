@@ -7,27 +7,32 @@
         <language>zh-TW</language>
         <pubDate>Wed, 05 Jan 2022 20:24:37 +0800</pubDate>
         <lastBuildDate>Wed, 05 Jan 2022 20:24:37 +0800</lastBuildDate>
-        <category>C++</category>
         <category>Linux</category>
         <category>組合語言</category>
-        <category>筆記</category>
         <category>弓道</category>
         <category>日本文化</category>
+        <category>筆記</category>
+        <category>C++</category>
+        <category>Computer Architecture</category>
+        <category>Assembly Language</category>
+        <category>LeetCode</category>
         <category>Python</category>
         <category>網路爬蟲</category>
         <category>Hack Life</category>
         <category>ZeroJudge</category>
-        <category>LeetCode</category>
-        <category>vector</category>
         <category>Shell</category>
         <category>Terminal</category>
+        <category>vector</category>
+        <category>資料結構</category>
+        <category>類神經網路</category>
+        <category>Linked List</category>
         <category>日本語</category>
         <item>
             <guid isPermalink="true">https://yuto-0226.github.io/csie/C++/cpp-vector/</guid>
             <title>向量 Vector(STL)</title>
             <link>https://yuto-0226.github.io/csie/C++/cpp-vector/</link>
-            <category>C++</category>
             <category>筆記</category>
+            <category>C++</category>
             <category>vector</category>
             <pubDate>Wed, 05 Jan 2022 20:24:37 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;前言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; 前言&lt;/h1&gt;
