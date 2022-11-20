@@ -1,0 +1,19 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "悠人的筆記本 • All posts by \"除錯紀錄\" tag",
+    "description": "CSE 筆記",
+    "home_page_url": "https://yuto-0226.github.io",
+    "items": [
+        {
+            "id": "https://yuto-0226.github.io/latex-packge-missing/",
+            "url": "https://yuto-0226.github.io/latex-packge-missing/",
+            "title": "Latex 編譯時缺少 .sty 檔案",
+            "date_published": "2022-11-20T17:04:43.000Z",
+            "content_html": "<p>用 <span class=\"exturl\" data-url=\"aHR0cHM6Ly9jdGFuLm9yZy9wa2c=\">CTAN</span> 單獨把遺失的檔案載回來，整個資料夾放回  <code>C:\\texlive\\&lt;年分&gt;\\texmf-dist\\tex\\latex</code> ，然後在 Terminal 裡面 :</p>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"></figcaption><table><tr><td data-num=\"1\"></td><td data-command=\"[root@localhost] $\"></td><td><pre>texhash</pre></td></tr></table></figure>",
+            "tags": [
+                "Latex",
+                "除錯紀錄"
+            ]
+        }
+    ]
+}
