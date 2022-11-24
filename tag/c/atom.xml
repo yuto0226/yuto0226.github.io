@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yuto-0226.github.io</id>
+    <title>悠人的筆記本 • Posts by &#34;c&#34; tag</title>
+    <link href="https://yuto-0226.github.io" />
+    <updated>2022-11-21T15:09:10.000Z</updated>
+    <category term="筆記" />
+    <category term="Linux" />
+    <category term="組合語言" />
+    <category term="C" />
+    <category term="Latex" />
+    <category term="除錯紀錄" />
+    <category term="弓道" />
+    <category term="日本文化" />
+    <category term="C++" />
+    <category term="Computer Architecture" />
+    <category term="Assembly Language" />
+    <category term="LeetCode" />
+    <category term="Python" />
+    <category term="網路爬蟲" />
+    <category term="Hack Life" />
+    <category term="ZeroJudge" />
+    <category term="vector" />
+    <category term="程式競賽" />
+    <category term="資料結構" />
+    <category term="Linked List" />
+    <category term="類神經網路" />
+    <category term="Shell" />
+    <category term="Terminal" />
+    <category term="日本語" />
+    <entry>
+        <id>https://yuto-0226.github.io/c-rand/</id>
+        <title>C語言rand()函式的用法</title>
+        <link rel="alternate" href="https://yuto-0226.github.io/c-rand/"/>
+        <content type="html">&lt;h1 id=&#34;stdlibh&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#stdlibh&#34;&gt;#&lt;/a&gt; stdlib.h&lt;/h1&gt;
+&lt;h2 id=&#34;rand&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#rand&#34;&gt;#&lt;/a&gt; rand()&lt;/h2&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;figcaption data-lang=&#34;c&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;rand&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;void&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;產生介於 0~RAND_MAX (=32767) 之間的隨機亂數，需要透過 srand () 來初始化&lt;/p&gt;
+&lt;h2 id=&#34;srand&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#srand&#34;&gt;#&lt;/a&gt; srand()&lt;/h2&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;figcaption data-lang=&#34;c&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;srand&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;unsigned&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; seed&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;透過傳進來的 seed 初始化 rand ()，seed 若不改變則每次所產生的亂數皆會相同。&lt;/p&gt;
+&lt;h1 id=&#34;timeh&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#timeh&#34;&gt;#&lt;/a&gt; time.h&lt;/h1&gt;
+&lt;h2 id=&#34;time&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#time&#34;&gt;#&lt;/a&gt; time()&lt;/h2&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;figcaption data-lang=&#34;c&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token class-name&#34;&gt;time_t&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;time&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token class-name&#34;&gt;time_t&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt; timer&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;&lt;code&gt;time(NULL)&lt;/code&gt;  會回傳自 1970 年午夜到現在所經過的秒數，可以用作 &lt;code&gt;srand&lt;/code&gt;  的 seed，每次執行的 seed 皆會不一樣&lt;/p&gt;
+&lt;h1 id=&#34;rand-scaled-and-shifted&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#rand-scaled-and-shifted&#34;&gt;#&lt;/a&gt; rand() scaled and shifted&lt;/h1&gt;
+&lt;figure class=&#34;highlight c&#34;&gt;&lt;figcaption data-lang=&#34;c&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;scale_rand&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; start&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; end&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;return&lt;/span&gt; start&lt;span class=&#34;token operator&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;rand&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;%&lt;/span&gt;end&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</content>
+        <category term="C" />
+        <updated>2022-11-21T15:09:10.000Z</updated>
+    </entry>
+</feed>

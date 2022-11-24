@@ -5,6 +5,16 @@
     "home_page_url": "https://yuto-0226.github.io",
     "items": [
         {
+            "id": "https://yuto-0226.github.io/c-rand/",
+            "url": "https://yuto-0226.github.io/c-rand/",
+            "title": "C語言rand()函式的用法",
+            "date_published": "2022-11-21T15:09:10.000Z",
+            "content_html": "<h1 id=\"stdlibh\"><a class=\"anchor\" href=\"#stdlibh\">#</a> stdlib.h</h1>\n<h2 id=\"rand\"><a class=\"anchor\" href=\"#rand\">#</a> rand()</h2>\n<figure class=\"highlight c\"><figcaption data-lang=\"c\"></figcaption><table><tr><td data-num=\"1\"></td><td><pre><span class=\"token keyword\">int</span> <span class=\"token function\">rand</span><span class=\"token punctuation\">(</span><span class=\"token keyword\">void</span><span class=\"token punctuation\">)</span><span class=\"token punctuation\">;</span></pre></td></tr></table></figure><p>產生介於 0~RAND_MAX (=32767) 之間的隨機亂數，需要透過 srand () 來初始化</p>\n<h2 id=\"srand\"><a class=\"anchor\" href=\"#srand\">#</a> srand()</h2>\n<figure class=\"highlight c\"><figcaption data-lang=\"c\"></figcaption><table><tr><td data-num=\"1\"></td><td><pre><span class=\"token keyword\">void</span> <span class=\"token function\">srand</span><span class=\"token punctuation\">(</span><span class=\"token keyword\">unsigned</span> <span class=\"token keyword\">int</span> seed<span class=\"token punctuation\">)</span><span class=\"token punctuation\">;</span></pre></td></tr></table></figure><p>透過傳進來的 seed 初始化 rand ()，seed 若不改變則每次所產生的亂數皆會相同。</p>\n<h1 id=\"timeh\"><a class=\"anchor\" href=\"#timeh\">#</a> time.h</h1>\n<h2 id=\"time\"><a class=\"anchor\" href=\"#time\">#</a> time()</h2>\n<figure class=\"highlight c\"><figcaption data-lang=\"c\"></figcaption><table><tr><td data-num=\"1\"></td><td><pre><span class=\"token class-name\">time_t</span> <span class=\"token function\">time</span><span class=\"token punctuation\">(</span><span class=\"token class-name\">time_t</span><span class=\"token operator\">*</span> timer<span class=\"token punctuation\">)</span><span class=\"token punctuation\">;</span></pre></td></tr></table></figure><p><code>time(NULL)</code>  會回傳自 1970 年午夜到現在所經過的秒數，可以用作 <code>srand</code>  的 seed，每次執行的 seed 皆會不一樣</p>\n<h1 id=\"rand-scaled-and-shifted\"><a class=\"anchor\" href=\"#rand-scaled-and-shifted\">#</a> rand() scaled and shifted</h1>\n<figure class=\"highlight c\"><figcaption data-lang=\"c\"></figcaption><table><tr><td data-num=\"1\"></td><td><pre><span class=\"token keyword\">int</span> <span class=\"token function\">scale_rand</span><span class=\"token punctuation\">(</span><span class=\"token keyword\">int</span> start<span class=\"token punctuation\">,</span><span class=\"token keyword\">int</span> end<span class=\"token punctuation\">)</span> <span class=\"token keyword\">return</span> start<span class=\"token operator\">+</span><span class=\"token function\">rand</span><span class=\"token punctuation\">(</span><span class=\"token punctuation\">)</span><span class=\"token operator\">%</span>end<span class=\"token punctuation\">;</span></pre></td></tr></table></figure>",
+            "tags": [
+                "C"
+            ]
+        },
+        {
             "id": "https://yuto-0226.github.io/latex-packge-missing/",
             "url": "https://yuto-0226.github.io/latex-packge-missing/",
             "title": "Latex 編譯時缺少 .sty 檔案",
@@ -96,8 +106,8 @@
             ]
         },
         {
-            "id": "https://yuto-0226.github.io/kyudou/shahouhassetsu/",
-            "url": "https://yuto-0226.github.io/kyudou/shahouhassetsu/",
+            "id": "https://yuto-0226.github.io/kyudo/shahouhassetsu/",
+            "url": "https://yuto-0226.github.io/kyudo/shahouhassetsu/",
             "title": "射法八節",
             "date_published": "2022-09-28T11:04:33.000Z",
             "content_html": "<p>射法八節是日本弓道中基本的規則，對其熟悉是非常重要的</p>\n<ul>\n<li><ruby>足踏み<rp> (</rp><rt>あしぶ</rt><rp>)</rp></ruby></li>\n<li><ruby>胴造り<rp> (</rp><rt>どうづく</rt><rp>)</rp></ruby></li>\n<li><ruby>弓構え<rp> (</rp><rt>ゆがま</rt><rp>)</rp></ruby></li>\n<li><ruby>打起し<rp> (</rp><rt>うちおこ</rt><rp>)</rp></ruby></li>\n<li><ruby>引分け<rp> (</rp><rt>ひきわ</rt><rp>)</rp></ruby></li>\n<li><ruby>会<rp> (</rp><rt>かい</rt><rp>)</rp></ruby></li>\n<li><ruby>離れ<rp> (</rp><rt>はな</rt><rp>)</rp></ruby></li>\n<li><ruby>残心<rp> (</rp><rt>ざんしん</rt><rp>)</rp></ruby></li>\n</ul>\n",
@@ -239,8 +249,8 @@
             "tags": [
                 "筆記",
                 "C++",
-                "Linked List",
-                "資料結構"
+                "資料結構",
+                "Linked List"
             ]
         },
         {
