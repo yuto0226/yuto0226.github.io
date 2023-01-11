@@ -1,0 +1,19 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "悠人的筆記本 • All posts by \"相掛かり\" tag",
+    "description": "CSE 筆記",
+    "home_page_url": "https://yuto-0226.github.io",
+    "items": [
+        {
+            "id": "https://yuto-0226.github.io/shogi/aigakari/",
+            "url": "https://yuto-0226.github.io/shogi/aigakari/",
+            "title": "相掛かり(基本型)",
+            "date_published": "2023-01-11T09:21:34.000Z",
+            "content_html": "<h1 id=\"基本型\"><a class=\"anchor\" href=\"#基本型\">#</a> 基本型</h1>\n<p>▲２六歩 △８四歩 ▲２五歩 △８五歩 ▲７八金 △３二金<br />\n▲２四歩 △同　歩 ▲同　飛 △２三歩</p>\n<p><img data-src=\"https://shogipic.jp/v/ax@3x.png\" class=\"\" width=\"360\" height=\"270\"></p>\n",
+            "tags": [
+                "居飛車",
+                "相掛かり"
+            ]
+        }
+    ]
+}

@@ -3,31 +3,46 @@
     <id>https://yuto-0226.github.io</id>
     <title>悠人的筆記本</title>
     <link href="https://yuto-0226.github.io" />
-    <updated>2022-11-21T15:09:10.000Z</updated>
-    <category term="筆記" />
-    <category term="Linux" />
-    <category term="組合語言" />
+    <updated>2023-01-11T09:21:34.000Z</updated>
     <category term="C" />
     <category term="Latex" />
     <category term="除錯紀錄" />
-    <category term="弓道" />
-    <category term="日本文化" />
+    <category term="筆記" />
     <category term="C++" />
     <category term="Computer Architecture" />
     <category term="Assembly Language" />
+    <category term="Linux" />
+    <category term="組合語言" />
+    <category term="弓道" />
+    <category term="日本文化" />
     <category term="LeetCode" />
+    <category term="ZeroJudge" />
     <category term="Python" />
     <category term="網路爬蟲" />
     <category term="Hack Life" />
-    <category term="ZeroJudge" />
-    <category term="vector" />
-    <category term="程式競賽" />
+    <category term="居飛車" />
+    <category term="相掛かり" />
     <category term="資料結構" />
-    <category term="Linked List" />
     <category term="類神經網路" />
+    <category term="Linked List" />
+    <category term="程式競賽" />
+    <category term="vector" />
     <category term="Shell" />
     <category term="Terminal" />
     <category term="日本語" />
+    <entry>
+        <id>https://yuto-0226.github.io/shogi/aigakari/</id>
+        <title>相掛かり(基本型)</title>
+        <link rel="alternate" href="https://yuto-0226.github.io/shogi/aigakari/"/>
+        <content type="html">&lt;h1 id=&#34;基本型&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#基本型&#34;&gt;#&lt;/a&gt; 基本型&lt;/h1&gt;
+&lt;p&gt;▲２六歩 △８四歩 ▲２五歩 △８五歩 ▲７八金 △３二金&lt;br /&gt;
+▲２四歩 △同　歩 ▲同　飛 △２三歩&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://shogipic.jp/v/ax@3x.png&#34; class=&#34;&#34; width=&#34;360&#34; height=&#34;270&#34;&gt;&lt;/p&gt;
+</content>
+        <category term="居飛車" />
+        <category term="相掛かり" />
+        <updated>2023-01-11T09:21:34.000Z</updated>
+    </entry>
     <entry>
         <id>https://yuto-0226.github.io/c-rand/</id>
         <title>C語言rand()函式的用法</title>
