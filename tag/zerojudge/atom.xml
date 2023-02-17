@@ -4,16 +4,17 @@
     <title>悠人的筆記本 • Posts by &#34;zerojudge&#34; tag</title>
     <link href="https://yuto-0226.github.io" />
     <updated>2022-11-13T14:50:34.000Z</updated>
-    <category term="Git" />
-    <category term="GitHub" />
+    <category term="TED" />
     <category term="Latex" />
     <category term="除錯紀錄" />
     <category term="C" />
-    <category term="筆記" />
     <category term="Linux" />
     <category term="組合語言" />
+    <category term="Git" />
+    <category term="GitHub" />
     <category term="弓道" />
     <category term="日本文化" />
+    <category term="筆記" />
     <category term="C++" />
     <category term="Computer Architecture" />
     <category term="Assembly Language" />
@@ -29,9 +30,9 @@
     <category term="資料結構" />
     <category term="Linked List" />
     <category term="類神經網路" />
+    <category term="日本語" />
     <category term="Shell" />
     <category term="Terminal" />
-    <category term="日本語" />
     <entry>
         <id>https://yuto-0226.github.io/sol/zj-d712/</id>
         <title>d712. The 3n + 1 problem</title>

@@ -7,16 +7,17 @@
         <language>zh-TW</language>
         <pubDate>Wed, 28 Sep 2022 19:04:33 +0800</pubDate>
         <lastBuildDate>Wed, 28 Sep 2022 19:04:33 +0800</lastBuildDate>
-        <category>Git</category>
-        <category>GitHub</category>
+        <category>TED</category>
         <category>Latex</category>
         <category>除錯紀錄</category>
         <category>C</category>
-        <category>筆記</category>
         <category>Linux</category>
         <category>組合語言</category>
+        <category>Git</category>
+        <category>GitHub</category>
         <category>弓道</category>
         <category>日本文化</category>
+        <category>筆記</category>
         <category>C++</category>
         <category>Computer Architecture</category>
         <category>Assembly Language</category>
@@ -32,9 +33,9 @@
         <category>資料結構</category>
         <category>Linked List</category>
         <category>類神經網路</category>
+        <category>日本語</category>
         <category>Shell</category>
         <category>Terminal</category>
-        <category>日本語</category>
         <item>
             <guid isPermalink="true">https://yuto-0226.github.io/kyudo/shahouhassetsu/</guid>
             <title>射法八節</title>

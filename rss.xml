@@ -5,18 +5,19 @@
         <link>https://yuto-0226.github.io</link>
         <description>CSE 筆記</description>
         <language>zh-TW</language>
-        <pubDate>Fri, 17 Feb 2023 14:21:43 +0800</pubDate>
-        <lastBuildDate>Fri, 17 Feb 2023 14:21:43 +0800</lastBuildDate>
-        <category>Git</category>
-        <category>GitHub</category>
+        <pubDate>Fri, 17 Feb 2023 14:38:35 +0800</pubDate>
+        <lastBuildDate>Fri, 17 Feb 2023 14:38:35 +0800</lastBuildDate>
+        <category>TED</category>
         <category>Latex</category>
         <category>除錯紀錄</category>
         <category>C</category>
-        <category>筆記</category>
         <category>Linux</category>
         <category>組合語言</category>
+        <category>Git</category>
+        <category>GitHub</category>
         <category>弓道</category>
         <category>日本文化</category>
+        <category>筆記</category>
         <category>C++</category>
         <category>Computer Architecture</category>
         <category>Assembly Language</category>
@@ -32,13 +33,22 @@
         <category>資料結構</category>
         <category>Linked List</category>
         <category>類神經網路</category>
+        <category>日本語</category>
         <category>Shell</category>
         <category>Terminal</category>
-        <category>日本語</category>
         <item>
-            <guid isPermalink="true">https://yuto-0226.github.io/gitdiffacc/</guid>
+            <guid isPermalink="true">https://yuto-0226.github.io/inside-the-mind-of-a-masterprocrastinator/</guid>
+            <title>拖延大師的腦子在想什麼 | TED</title>
+            <link>https://yuto-0226.github.io/inside-the-mind-of-a-masterprocrastinator/</link>
+            <category>TED</category>
+            <pubDate>Fri, 17 Feb 2023 14:38:35 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1rOFlFVWl6N3VRZw==&#34;&gt;https://www.youtube.com/watch?v=k8YEUiz7uQg&lt;/span&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://yuto-0226.github.io/csie/gitdiffacc/</guid>
             <title>Git切換帳號</title>
-            <link>https://yuto-0226.github.io/gitdiffacc/</link>
+            <link>https://yuto-0226.github.io/csie/gitdiffacc/</link>
             <category>Git</category>
             <category>GitHub</category>
             <pubDate>Fri, 17 Feb 2023 14:21:43 +0800</pubDate>
