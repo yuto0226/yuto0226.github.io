@@ -9,27 +9,27 @@
         <lastBuildDate>Wed, 11 Jan 2023 17:21:34 +0800</lastBuildDate>
         <category>Latex</category>
         <category>除錯紀錄</category>
+        <category>Linux</category>
+        <category>組合語言</category>
         <category>C</category>
+        <category>筆記</category>
         <category>C++</category>
         <category>Computer Architecture</category>
         <category>Assembly Language</category>
-        <category>Linux</category>
-        <category>組合語言</category>
         <category>弓道</category>
         <category>日本文化</category>
-        <category>筆記</category>
+        <category>居飛車</category>
+        <category>相掛かり</category>
+        <category>LeetCode</category>
         <category>Python</category>
         <category>網路爬蟲</category>
         <category>Hack Life</category>
-        <category>居飛車</category>
-        <category>相掛かり</category>
         <category>ZeroJudge</category>
-        <category>LeetCode</category>
         <category>程式競賽</category>
         <category>vector</category>
-        <category>Linked List</category>
-        <category>資料結構</category>
         <category>類神經網路</category>
+        <category>資料結構</category>
+        <category>Linked List</category>
         <category>Shell</category>
         <category>Terminal</category>
         <category>日本語</category>
@@ -77,8 +77,8 @@
             <guid isPermalink="true">https://yuto-0226.github.io/csie/AP325/0/</guid>
             <title>0.教材說明與預備知識</title>
             <link>https://yuto-0226.github.io/csie/AP325/0/</link>
-            <category>C++</category>
             <category>筆記</category>
+            <category>C++</category>
             <category>程式競賽</category>
             <pubDate>Fri, 18 Nov 2022 20:57:16 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;021-基本c模板與輸入輸出&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#021-基本c模板與輸入輸出&#34;&gt;#&lt;/a&gt; 0.2.1 基本 C++ 模板與輸入輸出&lt;/h1&gt;
@@ -139,8 +139,8 @@
             <guid isPermalink="true">https://yuto-0226.github.io/sol/zj-d712/</guid>
             <title>d712. The 3n + 1 problem</title>
             <link>https://yuto-0226.github.io/sol/zj-d712/</link>
-            <category>C++</category>
             <category>筆記</category>
+            <category>C++</category>
             <category>ZeroJudge</category>
             <pubDate>Sun, 13 Nov 2022 22:50:34 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;tle解&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#tle解&#34;&gt;#&lt;/a&gt; TLE 解&lt;/h1&gt;
@@ -153,8 +153,8 @@
             <guid isPermalink="true">https://yuto-0226.github.io/csie/DSA/segment-tree/</guid>
             <title>[C++]線段樹</title>
             <link>https://yuto-0226.github.io/csie/DSA/segment-tree/</link>
-            <category>C++</category>
             <category>筆記</category>
+            <category>C++</category>
             <category>資料結構</category>
             <pubDate>Sun, 13 Nov 2022 20:21:16 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;程式碼&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#程式碼&#34;&gt;#&lt;/a&gt; 程式碼&lt;/h1&gt;
@@ -472,8 +472,8 @@ Y_2=A_2X_2^2+B_2X_2+C_2
             <guid isPermalink="true">https://yuto-0226.github.io/csie/DSA/perceptron/</guid>
             <title>[C++]感知機 PLA</title>
             <link>https://yuto-0226.github.io/csie/DSA/perceptron/</link>
-            <category>C++</category>
             <category>筆記</category>
+            <category>C++</category>
             <category>類神經網路</category>
             <pubDate>Thu, 12 May 2022 14:20:28 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;感知機-pla&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#感知機-pla&#34;&gt;#&lt;/a&gt; 感知機 PLA&lt;/h1&gt;
@@ -562,8 +562,8 @@ Y_2=A_2X_2^2+B_2X_2+C_2
             <guid isPermalink="true">https://yuto-0226.github.io/csie/DSA/bit/</guid>
             <title>[C++]BIT 樹狀樹組</title>
             <link>https://yuto-0226.github.io/csie/DSA/bit/</link>
-            <category>C++</category>
             <category>筆記</category>
+            <category>C++</category>
             <category>資料結構</category>
             <pubDate>Fri, 01 Apr 2022 11:52:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;bit&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#bit&#34;&gt;#&lt;/a&gt; BIT&lt;/h1&gt;
@@ -603,8 +603,8 @@ Y_2=A_2X_2^2+B_2X_2+C_2
             <guid isPermalink="true">https://yuto-0226.github.io/sol/zj-e798/</guid>
             <title>e798 卷積神經網路</title>
             <link>https://yuto-0226.github.io/sol/zj-e798/</link>
-            <category>C++</category>
             <category>筆記</category>
+            <category>C++</category>
             <category>ZeroJudge</category>
             <pubDate>Fri, 18 Mar 2022 18:48:23 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;題目&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#題目&#34;&gt;#&lt;/a&gt; 題目&lt;/h1&gt;
@@ -637,8 +637,8 @@ CNN 分為三個部分：卷積層 (convolution layer)、池化層 (pooling laye
             <guid isPermalink="true">https://yuto-0226.github.io/sol/sqrtx/</guid>
             <title>[LeetCode] 69. Sqrt(x)(C++)</title>
             <link>https://yuto-0226.github.io/sol/sqrtx/</link>
-            <category>C++</category>
             <category>筆記</category>
+            <category>C++</category>
             <category>LeetCode</category>
             <pubDate>Fri, 04 Mar 2022 19:50:42 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;題目&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#題目&#34;&gt;#&lt;/a&gt; 題目&lt;/h1&gt;
@@ -661,8 +661,8 @@ CNN 分為三個部分：卷積層 (convolution layer)、池化層 (pooling laye
             <guid isPermalink="true">https://yuto-0226.github.io/sol/two-sum/</guid>
             <title>[LeetCode] 1. Two-Sum(C++)</title>
             <link>https://yuto-0226.github.io/sol/two-sum/</link>
-            <category>C++</category>
             <category>筆記</category>
+            <category>C++</category>
             <category>LeetCode</category>
             <pubDate>Fri, 04 Mar 2022 19:32:42 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;題目&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#題目&#34;&gt;#&lt;/a&gt; 題目&lt;/h1&gt;
@@ -688,8 +688,8 @@ CNN 分為三個部分：卷積層 (convolution layer)、池化層 (pooling laye
             <guid isPermalink="true">https://yuto-0226.github.io/csie/DSA/floodfill/</guid>
             <title>[C++]泛洪演算法 Flood Fill Alogrithm</title>
             <link>https://yuto-0226.github.io/csie/DSA/floodfill/</link>
-            <category>C++</category>
             <category>筆記</category>
+            <category>C++</category>
             <pubDate>Sat, 05 Feb 2022 14:29:02 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;簡介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#簡介&#34;&gt;#&lt;/a&gt; 簡介&lt;/h1&gt;
 &lt;p&gt;Flood Fill 演算法是從一個區域中提取若干個連通的點與其他相鄰區域區分開 (或分別染成不同顏色) 的經典演算法 (Algorithm)。因為其思路類似洪水從一個區域擴散到所有能到達的區域而得名。&lt;/p&gt;
@@ -714,8 +714,8 @@ CNN 分為三個部分：卷積層 (convolution layer)、池化層 (pooling laye
             <guid isPermalink="true">https://yuto-0226.github.io/csie/C++/cpp-vector/</guid>
             <title>向量 Vector(STL)</title>
             <link>https://yuto-0226.github.io/csie/C++/cpp-vector/</link>
-            <category>C++</category>
             <category>筆記</category>
+            <category>C++</category>
             <category>vector</category>
             <pubDate>Wed, 05 Jan 2022 20:24:37 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;前言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; 前言&lt;/h1&gt;
@@ -820,10 +820,10 @@ CNN 分為三個部分：卷積層 (convolution layer)、池化層 (pooling laye
             <guid isPermalink="true">https://yuto-0226.github.io/csie/DSA/cpp-linkedlist/</guid>
             <title>[C++]鏈接串列 Linked List</title>
             <link>https://yuto-0226.github.io/csie/DSA/cpp-linkedlist/</link>
-            <category>C++</category>
             <category>筆記</category>
-            <category>Linked List</category>
+            <category>C++</category>
             <category>資料結構</category>
+            <category>Linked List</category>
             <pubDate>Sat, 01 Jan 2022 21:00:11 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;簡介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#簡介&#34;&gt;#&lt;/a&gt; 簡介&lt;/h1&gt;
 &lt;p&gt;何謂&lt;strong&gt;鏈接串列 (Linked List)&lt;/strong&gt;? 串列是一種常見的資料結構，&lt;br /&gt;
