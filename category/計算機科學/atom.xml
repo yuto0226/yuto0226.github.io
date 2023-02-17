@@ -3,33 +3,46 @@
     <id>https://yuto-0226.github.io</id>
     <title>悠人的筆記本 • Posts by &#34;計算機科學&#34; category</title>
     <link href="https://yuto-0226.github.io" />
-    <updated>2022-11-21T15:09:10.000Z</updated>
+    <updated>2023-02-17T06:21:43.000Z</updated>
+    <category term="Git" />
+    <category term="GitHub" />
     <category term="Latex" />
     <category term="除錯紀錄" />
-    <category term="Linux" />
-    <category term="組合語言" />
     <category term="C" />
     <category term="筆記" />
+    <category term="Linux" />
+    <category term="組合語言" />
+    <category term="弓道" />
+    <category term="日本文化" />
     <category term="C++" />
     <category term="Computer Architecture" />
     <category term="Assembly Language" />
-    <category term="弓道" />
-    <category term="日本文化" />
-    <category term="居飛車" />
-    <category term="相掛かり" />
-    <category term="LeetCode" />
     <category term="Python" />
     <category term="網路爬蟲" />
     <category term="Hack Life" />
+    <category term="居飛車" />
+    <category term="相掛かり" />
+    <category term="LeetCode" />
     <category term="ZeroJudge" />
     <category term="程式競賽" />
     <category term="vector" />
-    <category term="類神經網路" />
     <category term="資料結構" />
     <category term="Linked List" />
+    <category term="類神經網路" />
     <category term="Shell" />
     <category term="Terminal" />
     <category term="日本語" />
+    <entry>
+        <id>https://yuto-0226.github.io/gitdiffacc/</id>
+        <title>Git切換帳號</title>
+        <link rel="alternate" href="https://yuto-0226.github.io/gitdiffacc/"/>
+        <content type="html">&lt;p&gt;到  &lt;code&gt;控制台/使用者帳戶/認證管理員/Windows 認證&lt;/code&gt; &lt;br /&gt;
+刪除 GitHub 的認證之後再重登即可&lt;/p&gt;
+</content>
+        <category term="Git" />
+        <category term="GitHub" />
+        <updated>2023-02-17T06:21:43.000Z</updated>
+    </entry>
     <entry>
         <id>https://yuto-0226.github.io/csie/c-rand/</id>
         <title>C語言rand()函式的用法</title>

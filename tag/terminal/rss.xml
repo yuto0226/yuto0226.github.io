@@ -7,29 +7,31 @@
         <language>zh-TW</language>
         <pubDate>Mon, 26 Sep 2022 17:30:41 +0800</pubDate>
         <lastBuildDate>Mon, 26 Sep 2022 17:30:41 +0800</lastBuildDate>
+        <category>Git</category>
+        <category>GitHub</category>
         <category>Latex</category>
         <category>除錯紀錄</category>
-        <category>Linux</category>
-        <category>組合語言</category>
         <category>C</category>
         <category>筆記</category>
+        <category>Linux</category>
+        <category>組合語言</category>
+        <category>弓道</category>
+        <category>日本文化</category>
         <category>C++</category>
         <category>Computer Architecture</category>
         <category>Assembly Language</category>
-        <category>弓道</category>
-        <category>日本文化</category>
-        <category>居飛車</category>
-        <category>相掛かり</category>
-        <category>LeetCode</category>
         <category>Python</category>
         <category>網路爬蟲</category>
         <category>Hack Life</category>
+        <category>居飛車</category>
+        <category>相掛かり</category>
+        <category>LeetCode</category>
         <category>ZeroJudge</category>
         <category>程式競賽</category>
         <category>vector</category>
-        <category>類神經網路</category>
         <category>資料結構</category>
         <category>Linked List</category>
+        <category>類神經網路</category>
         <category>Shell</category>
         <category>Terminal</category>
         <category>日本語</category>
