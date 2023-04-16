@@ -1,32 +1,32 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://yuto-0226.github.io</id>
+    <id>https://blog.yuto26.com</id>
     <title>悠人的筆記本 • Posts by &#34;弓道&#34; category</title>
-    <link href="https://yuto-0226.github.io" />
+    <link href="https://blog.yuto26.com" />
     <updated>2022-09-28T11:04:33.000Z</updated>
     <category term="TED" />
     <category term="Latex" />
     <category term="除錯紀錄" />
     <category term="Linux" />
     <category term="組合語言" />
-    <category term="C" />
     <category term="Git" />
     <category term="GitHub" />
+    <category term="C" />
     <category term="筆記" />
-    <category term="弓道" />
-    <category term="日本文化" />
     <category term="C++" />
     <category term="Computer Architecture" />
     <category term="Assembly Language" />
+    <category term="弓道" />
+    <category term="日本文化" />
     <category term="居飛車" />
     <category term="相掛かり" />
+    <category term="LeetCode" />
+    <category term="ZeroJudge" />
     <category term="Python" />
     <category term="網路爬蟲" />
     <category term="Hack Life" />
-    <category term="LeetCode" />
-    <category term="ZeroJudge" />
-    <category term="vector" />
     <category term="程式競賽" />
+    <category term="vector" />
     <category term="資料結構" />
     <category term="Linked List" />
     <category term="類神經網路" />
@@ -34,9 +34,9 @@
     <category term="Terminal" />
     <category term="日本語" />
     <entry>
-        <id>https://yuto-0226.github.io/kyudo/shahouhassetsu/</id>
+        <id>https://blog.yuto26.com/kyudo/shahouhassetsu/</id>
         <title>射法八節</title>
-        <link rel="alternate" href="https://yuto-0226.github.io/kyudo/shahouhassetsu/"/>
+        <link rel="alternate" href="https://blog.yuto26.com/kyudo/shahouhassetsu/"/>
         <content type="html">&lt;p&gt;射法八節是日本弓道中基本的規則，對其熟悉是非常重要的&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;ruby&gt;足踏み&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;あしぶ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;&lt;/li&gt;

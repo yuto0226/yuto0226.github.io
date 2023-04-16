@@ -1,32 +1,32 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://yuto-0226.github.io</id>
+    <id>https://blog.yuto26.com</id>
     <title>悠人的筆記本 • Posts by &#34;terminal&#34; tag</title>
-    <link href="https://yuto-0226.github.io" />
+    <link href="https://blog.yuto26.com" />
     <updated>2022-09-26T09:30:41.000Z</updated>
     <category term="TED" />
     <category term="Latex" />
     <category term="除錯紀錄" />
     <category term="Linux" />
     <category term="組合語言" />
-    <category term="C" />
     <category term="Git" />
     <category term="GitHub" />
+    <category term="C" />
     <category term="筆記" />
-    <category term="弓道" />
-    <category term="日本文化" />
     <category term="C++" />
     <category term="Computer Architecture" />
     <category term="Assembly Language" />
+    <category term="弓道" />
+    <category term="日本文化" />
     <category term="居飛車" />
     <category term="相掛かり" />
+    <category term="LeetCode" />
+    <category term="ZeroJudge" />
     <category term="Python" />
     <category term="網路爬蟲" />
     <category term="Hack Life" />
-    <category term="LeetCode" />
-    <category term="ZeroJudge" />
-    <category term="vector" />
     <category term="程式競賽" />
+    <category term="vector" />
     <category term="資料結構" />
     <category term="Linked List" />
     <category term="類神經網路" />
@@ -34,9 +34,9 @@
     <category term="Terminal" />
     <category term="日本語" />
     <entry>
-        <id>https://yuto-0226.github.io/csie/missing-semester/missing-semester-01/</id>
+        <id>https://blog.yuto26.com/csie/missing-semester/missing-semester-01/</id>
         <title>Lecture 1:Course Overview + The Shell</title>
-        <link rel="alternate" href="https://yuto-0226.github.io/csie/missing-semester/missing-semester-01/"/>
+        <link rel="alternate" href="https://blog.yuto26.com/csie/missing-semester/missing-semester-01/"/>
         <content type="html">&lt;p&gt;MIT 的教授們所開設的課程。每堂課都有&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9taXNzaW5nLmNzYWlsLm1pdC5lZHUv&#34;&gt;線上筆記&lt;/span&gt;可以參考。&lt;/p&gt;
 &lt;h1 id=&#34;the-shell&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#the-shell&#34;&gt;#&lt;/a&gt; The Shell&lt;/h1&gt;
 &lt;p&gt;當你打開 Shell，統常只會有一行字在做上方，稱作&lt;strong&gt;系統提示 (Shell Prompt)&lt;/strong&gt;。&lt;/p&gt;

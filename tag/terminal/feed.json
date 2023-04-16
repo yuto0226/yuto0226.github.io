@@ -2,11 +2,11 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "悠人的筆記本 • All posts by \"terminal\" tag",
     "description": "CSE 筆記",
-    "home_page_url": "https://yuto-0226.github.io",
+    "home_page_url": "https://blog.yuto26.com",
     "items": [
         {
-            "id": "https://yuto-0226.github.io/csie/missing-semester/missing-semester-01/",
-            "url": "https://yuto-0226.github.io/csie/missing-semester/missing-semester-01/",
+            "id": "https://blog.yuto26.com/csie/missing-semester/missing-semester-01/",
+            "url": "https://blog.yuto26.com/csie/missing-semester/missing-semester-01/",
             "title": "Lecture 1:Course Overview + The Shell",
             "date_published": "2022-09-26T09:30:41.000Z",
             "content_html": "<p>MIT 的教授們所開設的課程。每堂課都有<span class=\"exturl\" data-url=\"aHR0cHM6Ly9taXNzaW5nLmNzYWlsLm1pdC5lZHUv\">線上筆記</span>可以參考。</p>\n<h1 id=\"the-shell\"><a class=\"anchor\" href=\"#the-shell\">#</a> The Shell</h1>\n<p>當你打開 Shell，統常只會有一行字在做上方，稱作<strong>系統提示 (Shell Prompt)</strong>。</p>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"></figcaption><table><tr><td data-num=\"1\"></td><td><pre><span class=\"token punctuation\">[</span>root@localhost<span class=\"token punctuation\">]</span> $</pre></td></tr></table></figure><p>上面有使用者名稱 (user name) 跟現在使用的機器名稱還有現在所在的路徑 (path)。你可以在系統提示輸入指令 Shell 會解析指令，例如最簡單的指令便是執行一個程式且帶有引數 (argument):</p>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"><span>Windows Terminal</span></figcaption><table><tr><td data-num=\"1\"></td><td data-command=\"[root@localhost] $\"></td><td><pre><span class=\"token function\">date</span></pre></td></tr><tr><td data-num=\"2\"></td><td data-command=\"\"></td><td><pre>Tue Sep <span class=\"token number\">27</span> 08:40:51 CST <span class=\"token number\">2022</span></pre></td></tr></table></figure><p>以 date 這隻程式來說，他會把現在的日期跟時間印在 shell 上。<br />\n那當然也可以使用帶有引數的程式:</p>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"><span>Windows Terminal</span></figcaption><table><tr><td data-num=\"1\"></td><td data-command=\"[root@localhost] $\"></td><td><pre><span class=\"token builtin class-name\">echo</span> hello</pre></td></tr><tr><td data-num=\"2\"></td><td data-command=\"\"></td><td><pre>hello</pre></td></tr></table></figure><pre><code class=\"language-bash\"></code></pre>\n",

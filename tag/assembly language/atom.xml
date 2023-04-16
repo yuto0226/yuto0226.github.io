@@ -1,32 +1,32 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://yuto-0226.github.io</id>
+    <id>https://blog.yuto26.com</id>
     <title>悠人的筆記本 • Posts by &#34;assembly language&#34; tag</title>
-    <link href="https://yuto-0226.github.io" />
+    <link href="https://blog.yuto26.com" />
     <updated>2022-11-05T15:13:30.000Z</updated>
     <category term="TED" />
     <category term="Latex" />
     <category term="除錯紀錄" />
     <category term="Linux" />
     <category term="組合語言" />
-    <category term="C" />
     <category term="Git" />
     <category term="GitHub" />
+    <category term="C" />
     <category term="筆記" />
-    <category term="弓道" />
-    <category term="日本文化" />
     <category term="C++" />
     <category term="Computer Architecture" />
     <category term="Assembly Language" />
+    <category term="弓道" />
+    <category term="日本文化" />
     <category term="居飛車" />
     <category term="相掛かり" />
+    <category term="LeetCode" />
+    <category term="ZeroJudge" />
     <category term="Python" />
     <category term="網路爬蟲" />
     <category term="Hack Life" />
-    <category term="LeetCode" />
-    <category term="ZeroJudge" />
-    <category term="vector" />
     <category term="程式競賽" />
+    <category term="vector" />
     <category term="資料結構" />
     <category term="Linked List" />
     <category term="類神經網路" />
@@ -34,9 +34,9 @@
     <category term="Terminal" />
     <category term="日本語" />
     <entry>
-        <id>https://yuto-0226.github.io/csie/simple-8bit-cpu/</id>
+        <id>https://blog.yuto26.com/csie/simple-8bit-cpu/</id>
         <title>用 C++ 模擬簡單的 8-bit cpu</title>
-        <link rel="alternate" href="https://yuto-0226.github.io/csie/simple-8bit-cpu/"/>
+        <link rel="alternate" href="https://blog.yuto26.com/csie/simple-8bit-cpu/"/>
         <content type="html">&lt;p&gt;最近在看 beneater 的 8-bit cpu 想說用 C++ 寫看看練練手，所以就寫出來啦～&lt;br /&gt;
  由於還沒對 CPU 理解得很徹底，只有把 ALU 做出來而已，以後再看看會不會在重寫一個哈哈。&lt;/p&gt;
 &lt;h1 id=&#34;架構&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#架構&#34;&gt;#&lt;/a&gt; 架構&lt;/h1&gt;

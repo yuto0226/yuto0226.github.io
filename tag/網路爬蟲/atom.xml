@@ -1,32 +1,32 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://yuto-0226.github.io</id>
+    <id>https://blog.yuto26.com</id>
     <title>悠人的筆記本 • Posts by &#34;網路爬蟲&#34; tag</title>
-    <link href="https://yuto-0226.github.io" />
+    <link href="https://blog.yuto26.com" />
     <updated>2021-08-18T11:13:26.000Z</updated>
     <category term="TED" />
     <category term="Latex" />
     <category term="除錯紀錄" />
     <category term="Linux" />
     <category term="組合語言" />
-    <category term="C" />
     <category term="Git" />
     <category term="GitHub" />
+    <category term="C" />
     <category term="筆記" />
-    <category term="弓道" />
-    <category term="日本文化" />
     <category term="C++" />
     <category term="Computer Architecture" />
     <category term="Assembly Language" />
+    <category term="弓道" />
+    <category term="日本文化" />
     <category term="居飛車" />
     <category term="相掛かり" />
+    <category term="LeetCode" />
+    <category term="ZeroJudge" />
     <category term="Python" />
     <category term="網路爬蟲" />
     <category term="Hack Life" />
-    <category term="LeetCode" />
-    <category term="ZeroJudge" />
-    <category term="vector" />
     <category term="程式競賽" />
+    <category term="vector" />
     <category term="資料結構" />
     <category term="Linked List" />
     <category term="類神經網路" />
@@ -34,9 +34,9 @@
     <category term="Terminal" />
     <category term="日本語" />
     <entry>
-        <id>https://yuto-0226.github.io/project/popcat/</id>
+        <id>https://blog.yuto26.com/project/popcat/</id>
         <title>POPCAT 自動連點器</title>
-        <link rel="alternate" href="https://yuto-0226.github.io/project/popcat/"/>
+        <link rel="alternate" href="https://blog.yuto26.com/project/popcat/"/>
         <content type="html">&lt;h1 id=&#34;前言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; 前言&lt;/h1&gt;
 &lt;p&gt;近期 Pop cat 風靡全球 大家都想拿到第一名&lt;br /&gt;
 什麼是 Pop cat? 這就要從一隻可愛的貓說起&lt;/p&gt;

@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>悠人的筆記本 • Posts by &#34;居飛車&#34; tag</title>
-        <link>https://yuto-0226.github.io</link>
+        <link>https://blog.yuto26.com</link>
         <description>CSE 筆記</description>
         <language>zh-TW</language>
         <pubDate>Wed, 11 Jan 2023 17:21:34 +0800</pubDate>
@@ -12,24 +12,24 @@
         <category>除錯紀錄</category>
         <category>Linux</category>
         <category>組合語言</category>
-        <category>C</category>
         <category>Git</category>
         <category>GitHub</category>
+        <category>C</category>
         <category>筆記</category>
-        <category>弓道</category>
-        <category>日本文化</category>
         <category>C++</category>
         <category>Computer Architecture</category>
         <category>Assembly Language</category>
+        <category>弓道</category>
+        <category>日本文化</category>
         <category>居飛車</category>
         <category>相掛かり</category>
+        <category>LeetCode</category>
+        <category>ZeroJudge</category>
         <category>Python</category>
         <category>網路爬蟲</category>
         <category>Hack Life</category>
-        <category>LeetCode</category>
-        <category>ZeroJudge</category>
-        <category>vector</category>
         <category>程式競賽</category>
+        <category>vector</category>
         <category>資料結構</category>
         <category>Linked List</category>
         <category>類神經網路</category>
@@ -37,9 +37,9 @@
         <category>Terminal</category>
         <category>日本語</category>
         <item>
-            <guid isPermalink="true">https://yuto-0226.github.io/shogi/aigakari/</guid>
+            <guid isPermalink="true">https://blog.yuto26.com/shogi/aigakari/</guid>
             <title>相掛かり(基本型)</title>
-            <link>https://yuto-0226.github.io/shogi/aigakari/</link>
+            <link>https://blog.yuto26.com/shogi/aigakari/</link>
             <category>居飛車</category>
             <category>相掛かり</category>
             <pubDate>Wed, 11 Jan 2023 17:21:34 +0800</pubDate>
