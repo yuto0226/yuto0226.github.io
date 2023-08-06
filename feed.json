@@ -5,6 +5,17 @@
     "home_page_url": "https://blog.yuto26.com",
     "items": [
         {
+            "id": "https://blog.yuto26.com/opencv-camera/",
+            "url": "https://blog.yuto26.com/opencv-camera/",
+            "title": "OpenCV 使用前置攝影機",
+            "date_published": "2023-08-06T06:51:43.000Z",
+            "content_html": "<figure class=\"highlight py\"><figcaption data-lang=\"Python\"></figcaption><table><tr><td data-num=\"1\"></td><td><pre><span class=\"token keyword\">import</span> cv2 <span class=\"token keyword\">as</span> cv</pre></td></tr><tr><td data-num=\"2\"></td><td><pre>cam <span class=\"token operator\">=</span> cv<span class=\"token punctuation\">.</span>VideoCapture<span class=\"token punctuation\">(</span><span class=\"token number\">0</span><span class=\"token punctuation\">)</span></pre></td></tr><tr><td data-num=\"3\"></td><td><pre></pre></td></tr><tr><td data-num=\"4\"></td><td><pre><span class=\"token keyword\">while</span> <span class=\"token boolean\">True</span><span class=\"token punctuation\">:</span></pre></td></tr><tr><td data-num=\"5\"></td><td><pre>    ret<span class=\"token punctuation\">,</span> frame <span class=\"token operator\">=</span> cam<span class=\"token punctuation\">.</span>read<span class=\"token punctuation\">(</span><span class=\"token punctuation\">)</span></pre></td></tr><tr><td data-num=\"6\"></td><td><pre>    cv<span class=\"token punctuation\">.</span>imshow<span class=\"token punctuation\">(</span><span class=\"token string\">'cam'</span><span class=\"token punctuation\">,</span>frame<span class=\"token punctuation\">)</span></pre></td></tr><tr><td data-num=\"7\"></td><td><pre>    <span class=\"token keyword\">if</span> cv<span class=\"token punctuation\">.</span>waitKey<span class=\"token punctuation\">(</span><span class=\"token number\">1</span><span class=\"token punctuation\">)</span><span class=\"token operator\">==</span><span class=\"token builtin\">ord</span><span class=\"token punctuation\">(</span><span class=\"token string\">'q'</span><span class=\"token punctuation\">)</span><span class=\"token punctuation\">:</span></pre></td></tr><tr><td data-num=\"8\"></td><td><pre>        <span class=\"token keyword\">break</span></pre></td></tr><tr><td data-num=\"9\"></td><td><pre></pre></td></tr><tr><td data-num=\"10\"></td><td><pre>cam<span class=\"token punctuation\">.</span>release<span class=\"token punctuation\">(</span><span class=\"token punctuation\">)</span></pre></td></tr><tr><td data-num=\"11\"></td><td><pre>cv<span class=\"token punctuation\">.</span>destroyAllWindows<span class=\"token punctuation\">(</span><span class=\"token punctuation\">)</span></pre></td></tr></table></figure>",
+            "tags": [
+                "Python",
+                "OpenCV"
+            ]
+        },
+        {
             "id": "https://blog.yuto26.com/inside-the-mind-of-a-masterprocrastinator/",
             "url": "https://blog.yuto26.com/inside-the-mind-of-a-masterprocrastinator/",
             "title": "拖延大師的腦子在想什麼 | TED",
